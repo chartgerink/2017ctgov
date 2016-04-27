@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="816">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01931527</url>
+  </required_header>
+  <id_info>
+    <org_study_id>06-0509</org_study_id>
+    <nct_id>NCT01931527</nct_id>
+  </id_info>
+  <brief_title>Effect of Reducing Uric Acid on Insulin Sensitivity and Oxidative Status</brief_title>
+  <official_title>Effect of Plasma Uric Acid on Insulin Sensitivity, Endothelial Function and Inflammation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to learn more about what is the effect of uric acid on
+      oxidative stress and on the way the body metabolizes sugar in obese people. Understanding
+      this may lead to better diseases such as diabetes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It has been hypothesized that oxidative stress is involved in the pathogenesis of insulin
+      resistance associated with obesity. Circulating uric acid (UA) is the body's major
+      endogenous plasma antioxidant. Therefore, the investigators evaluated whether alterations in
+      serum UA concentration affect: 1) systemic and skeletal muscle oxidative stress, 2) total
+      antioxidant capacity, and 4) skeletal muscle insulin sensitivity during a
+      hyperinsulinemic-euglycemic clamp.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2006</start_date>
+  <completion_date type="Actual">November 2012</completion_date>
+  <primary_completion_date type="Actual">June 2008</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Intervention Model: Single Group Assignment, Masking: Open Label</study_design>
+  <primary_outcome>
+    <measure>Determine the Effect of Reducing Uric Acid on Insulin Sensitivity</measure>
+    <time_frame>12 hours after reducing uric acid</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Uric acid will be reduced to 0 with a 30 minute infusion of a uricase (Elitek, Sanofi-Aventis). A hyperinsulinemic-euglycemic clamp procedure in conjunction with stable isotope glucose tracer infusion will be used to measure skeletal muscle insulin sensitivity in obese subjects with high uric acid before and after uric acid reduction.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determine the Effect of Reducing Uric Acid on Oxidative Status</measure>
+    <time_frame>12 hours after reducing uric acid</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Uric acid will be reduced to 0 with a 30 minute infusion of a uricase (Elitek, Sanofi-Aventis). Systemic (urinary isoprostanes) and skeletal muscle (carbonylated protein ratio) oxidative stress and total antioxidant capacity (plasma and saliva TRAP and FRAP) will be measured in obese subjects with high uric acid before and after uric acid reduction.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">31</enrollment>
+  <condition>Obesity</condition>
+  <condition>Metabolic Syndrome</condition>
+  <condition>Hyperuricemia</condition>
+  <arm_group>
+    <arm_group_label>Obese subjects with normal uric acid</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subjects with a body mass index = or &gt; 30 kg/m2 with normal uric acid (= or &lt; 5 mg/dL)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Obese subjects with high uric acid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with a body mass index = or &gt; 30 kg/m2 with high uric acid (&gt;6 mg/dL)
+Intervention: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rasburicase</intervention_name>
+    <description>one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min</description>
+    <arm_group_label>Obese subjects with high uric acid</arm_group_label>
+    <other_name>Elitek</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  obese (BMI 30-45 kg/m2);
+
+          -  serum UA concentration either ≥5 mg/dL or ≤4.0 mg/dL (297 µmol/L)],
+
+        Exclusion Criteria:
+
+          -  renal dysfunction (serum creatinine &gt;1.5 mg/dL);
+
+          -  pregnancy or lactating;
+
+          -  take urate-lowering agents, thiazide diuretics, prednisone or medications containing
+             aspirin or other salicylates ;
+
+          -  history of xanthinuria, type 2 diabetes or other significant organ system
+             dysfunction;
+
+          -  have G6PD deficiency;
+
+          -  use hormone-replacement or oral-contraceptive therapy;
+
+          -  smoke tobacco;
+
+          -  anemic (Hb &lt;10 g/dl)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Samuel Klein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2015</verification_date>
+  <lastchanged_date>April 28, 2015</lastchanged_date>
+  <firstreceived_date>August 23, 2013</firstreceived_date>
+  <firstreceived_results_date>April 28, 2015</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Obesity</keyword>
+  <keyword>Metabolic syndrome</keyword>
+  <keyword>Hyperuricemia</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hyperuricemia</mesh_term>
+    <mesh_term>Metabolic Syndrome X</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Rasburicase</mesh_term>
+    <mesh_term>Uric Acid</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Obese Subjects With Normal Uric Acid</title>
+          <description>Subjects with a body mass index = or &gt; 30 kg/m2 with normal uric acid (= or &lt; 5 mg/dL)</description>
+        </group>
+        <group group_id="P2">
+          <title>Obese Subjects With High Uric Acid</title>
+          <description>Subjects with a body mass index = or &gt; 30 kg/m2 with high uric acid (&gt;6 mg/dL)
+Intervention: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min
+Rasburicase: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Obese subjects with low uric acid (&lt;5mg/dL)</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Low Uric Acid</title>
+          <description>16 obese subjects (BMI 37.1±0.7 kg/m2) with uric acid &lt;5mg/dL</description>
+        </group>
+        <group group_id="B2">
+          <title>High Uric Acid</title>
+          <description>15 obese subjects (BMI 37.1±0.7 kg/m2) with uric acid &gt;6mg/dL</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="16"/>
+                <measurement group_id="B2" value="15"/>
+                <measurement group_id="B3" value="31"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;=18 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Between 18 and 65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="16"/>
+                <measurement group_id="B2" value="15"/>
+                <measurement group_id="B3" value="31"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>&gt;=65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="14"/>
+                <measurement group_id="B2" value="8"/>
+                <measurement group_id="B3" value="22"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="2"/>
+                <measurement group_id="B2" value="7"/>
+                <measurement group_id="B3" value="9"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>United States</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="16"/>
+                <measurement group_id="B2" value="15"/>
+                <measurement group_id="B3" value="31"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Body mass index</title>
+          <units>kg/m2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="35.9" spread="3.2"/>
+                <measurement group_id="B2" value="38.3" spread="4.8"/>
+                <measurement group_id="B3" value="37.1" spread="4.1"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Plasma uric acid concentration</title>
+          <units>mg/dL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="4.5" spread="0.2"/>
+                <measurement group_id="B2" value="7.1" spread="1.6"/>
+                <measurement group_id="B3" value="5.7" spread="1.7"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Determine the Effect of Reducing Uric Acid on Insulin Sensitivity</title>
+        <description>Uric acid will be reduced to 0 with a 30 minute infusion of a uricase (Elitek, Sanofi-Aventis). A hyperinsulinemic-euglycemic clamp procedure in conjunction with stable isotope glucose tracer infusion will be used to measure skeletal muscle insulin sensitivity in obese subjects with high uric acid before and after uric acid reduction.</description>
+        <time_frame>12 hours after reducing uric acid</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Obese Subjects With Normal Uric Acid</title>
+            <description>Subjects with a body mass index = or &gt; 30 kg/m2 with normal uric acid (= or &lt; 5 mg/dL)</description>
+          </group>
+          <group group_id="O2">
+            <title>Obese Subjects With High Uric Acid</title>
+            <description>Subjects with a body mass index = or &gt; 30 kg/m2 with high uric acid (&gt;6 mg/dL)
+Intervention: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min
+Rasburicase: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="16"/>
+                  <measurement group_id="O2" value="15"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Determine the Effect of Reducing Uric Acid on Insulin Sensitivity</title>
+            <description>Uric acid will be reduced to 0 with a 30 minute infusion of a uricase (Elitek, Sanofi-Aventis). A hyperinsulinemic-euglycemic clamp procedure in conjunction with stable isotope glucose tracer infusion will be used to measure skeletal muscle insulin sensitivity in obese subjects with high uric acid before and after uric acid reduction.</description>
+            <units>% incr. in insulin-mediated gluc. uptake</units>
+            <param>Mean</param>
+            <dispersion>Standard Error</dispersion>
+            <category_list>
+              <category>
+                <sub_title>BASAL Insulin Sensitivity</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="231" spread="23"/>
+                  <measurement group_id="O2" value="162" spread="24"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>AFTER RASBURICASE Insulin Sensitivity</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="NA">Rasburicase infusion to lower uric acid was only administered to subjects in the High Uric Acid group</measurement>
+                  <measurement group_id="O2" value="156" spread="17"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Determine the Effect of Reducing Uric Acid on Oxidative Status</title>
+        <description>Uric acid will be reduced to 0 with a 30 minute infusion of a uricase (Elitek, Sanofi-Aventis). Systemic (urinary isoprostanes) and skeletal muscle (carbonylated protein ratio) oxidative stress and total antioxidant capacity (plasma and saliva TRAP and FRAP) will be measured in obese subjects with high uric acid before and after uric acid reduction.</description>
+        <time_frame>12 hours after reducing uric acid</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Obese Subjects With Normal Uric Acid</title>
+            <description>Subjects with a body mass index = or &gt; 30 kg/m2 with normal uric acid (= or &lt; 5 mg/dL)</description>
+          </group>
+          <group group_id="O2">
+            <title>Obese Subjects With High Uric Acid</title>
+            <description>Subjects with a body mass index = or &gt; 30 kg/m2 with high uric acid (&gt;6 mg/dL)
+Intervention: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min
+Rasburicase: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="16"/>
+                  <measurement group_id="O2" value="15"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Determine the Effect of Reducing Uric Acid on Oxidative Status</title>
+            <description>Uric acid will be reduced to 0 with a 30 minute infusion of a uricase (Elitek, Sanofi-Aventis). Systemic (urinary isoprostanes) and skeletal muscle (carbonylated protein ratio) oxidative stress and total antioxidant capacity (plasma and saliva TRAP and FRAP) will be measured in obese subjects with high uric acid before and after uric acid reduction.</description>
+            <units>ng/mg</units>
+            <param>Mean</param>
+            <dispersion>Standard Error</dispersion>
+            <category_list>
+              <category>
+                <sub_title>BASELINE urinary isoprostanes</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.0" spread="0.15"/>
+                  <measurement group_id="O2" value="0.68" spread="0.07"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>AFTER RASBURICASE urinare</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="NA">Rasburicase infusion to reduce uric acid was administered only to the High Uric Acid group</measurement>
+                  <measurement group_id="O2" value="0.96" spread="0.12"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Obese Subjects With Normal Uric Acid</title>
+          <description>Subjects with a body mass index = or &gt; 30 kg/m2 with normal uric acid (= or &lt; 5 mg/dL)</description>
+        </group>
+        <group group_id="E2">
+          <title>Obese Subjects With High Uric Acid</title>
+          <description>Subjects with a body mass index = or &gt; 30 kg/m2 with high uric acid (&gt;6 mg/dL)
+Intervention: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min
+Rasburicase: one single infusion of rasburicase (0.19 mg/kg FFM) infused over 30 min</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Elisa Fabbrini, MD, PhD</name_or_title>
+      <organization>Washington University School of Medicine</organization>
+      <phone>314-362-8156</phone>
+      <email>efabbrini@dom.wustl.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3864">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01322841</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHICA_Screening</org_study_id>
+    <secondary_id>5K22LM009160</secondary_id>
+    <nct_id>NCT01322841</nct_id>
+  </id_info>
+  <brief_title>Universal Screening for Tuberculosis and Anemia With the CHICA System</brief_title>
+  <official_title>Universal Screening for Tuberculosis and Anemia With the CHICA System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Library of Medicine (NLM)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The CHICA system is a clinical decision support system that uses adaptive turnaround
+      documents to provide point-of-care information to clinicians. The investigators will be
+      studying whether it can help in the diagnosis and treatment of tuberculosis and iron
+      deficiency anemia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The CHICA system is a clinical decision support system that uses adaptive turnaround
+      documents to provide point-of-care information to clinicians. We will be studying whether it
+      can help in the diagnosis and treatment of tuberculosis and iron deficiency anemia.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2007</start_date>
+  <completion_date type="Actual">September 2010</completion_date>
+  <primary_completion_date type="Actual">July 2009</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Single Blind (Investigator), Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Percentage of Patients Screened Positive for One of the Disorders</measure>
+    <time_frame>six months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients Diagnosed With One of the Disorders</measure>
+    <time_frame>six months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">2239</enrollment>
+  <condition>Tuberculosis</condition>
+  <condition>Iron Deficiency Anemia</condition>
+  <arm_group>
+    <arm_group_label>CHICA Screening Module</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This arm had the CHICA screening module turned on</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CHICA Screening Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>This arm had CHICA but no additional module</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CHICA Screening Module</intervention_name>
+    <description>The CHICA module helped to screen and diagnose patients with tuberculosis or iron deficiency anemia</description>
+    <arm_group_label>CHICA Screening Module</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CHICA Screening Control</intervention_name>
+    <description>This was CHICA without the screening module</description>
+    <arm_group_label>CHICA Screening Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Age 3 to 11 years old and seen in a study clinic
+
+        Exclusion Criteria:
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>11 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aaron E Carroll, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IUSM</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's Health Services Research</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2016</verification_date>
+  <lastchanged_date>January 22, 2016</lastchanged_date>
+  <firstreceived_date>March 23, 2011</firstreceived_date>
+  <firstreceived_results_date>November 17, 2015</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Aaron Carroll</investigator_full_name>
+    <investigator_title>Professor of Pediatrics</investigator_title>
+  </responsible_party>
+  <keyword>CHICA</keyword>
+  <keyword>clinical decision support</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anemia</mesh_term>
+    <mesh_term>Anemia, Iron-Deficiency</mesh_term>
+    <mesh_term>Tuberculosis</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>CHICA Screening Module</title>
+          <description>This arm had the CHICA screening module turned on
+CHICA diagnosis module: The CHICA module helped to screen and diagnose patients with tuberculosis or iron deficiency anemia</description>
+        </group>
+        <group group_id="P2">
+          <title>CHICA Screening Control</title>
+          <description>This arm had CHICA but no additional module
+CHICA Placebo: This was CHICA without the screening module</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="1116"/>
+                <participants group_id="P2" count="1123"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1116"/>
+                <participants group_id="P2" count="1123"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>CHICA Screening Module</title>
+          <description>This arm had the CHICA screening module turned on
+CHICA diagnosis module: The CHICA module helped to screen and diagnose patients with tuberculosis or iron deficiency anemia</description>
+        </group>
+        <group group_id="B2">
+          <title>CHICA Screening Control</title>
+          <description>This arm had CHICA but no additional module
+CHICA Placebo: This was CHICA without the screening module</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="1116"/>
+                <measurement group_id="B2" value="1123"/>
+                <measurement group_id="B3" value="2239"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;=18 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="1116"/>
+                <measurement group_id="B2" value="1123"/>
+                <measurement group_id="B3" value="2239"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Between 18 and 65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>&gt;=65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="538"/>
+                <measurement group_id="B2" value="542"/>
+                <measurement group_id="B3" value="1080"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="578"/>
+                <measurement group_id="B2" value="581"/>
+                <measurement group_id="B3" value="1159"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>American Indian or Alaska Native</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="2"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="2"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Asian</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Native Hawaiian or Other Pacific Islander</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="21"/>
+                <measurement group_id="B2" value="27"/>
+                <measurement group_id="B3" value="48"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Black or African American</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="394"/>
+                <measurement group_id="B2" value="397"/>
+                <measurement group_id="B3" value="791"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>White</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="679"/>
+                <measurement group_id="B2" value="662"/>
+                <measurement group_id="B3" value="1341"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>More than one race</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Unknown or Not Reported</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="20"/>
+                <measurement group_id="B2" value="37"/>
+                <measurement group_id="B3" value="57"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Patients Screened Positive for One of the Disorders</title>
+        <time_frame>six months</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>CHICA Diagnosis Module</title>
+            <description>This arm had the CHICA screening module turned on
+CHICA diagnosis module: The CHICA module helped to screen and diagnose patients with tuberculosis or iron deficiency anemia</description>
+          </group>
+          <group group_id="O2">
+            <title>CHICA Placebo</title>
+            <description>This arm had CHICA but no additional module
+CHICA Placebo: This was CHICA without the screening module</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="1116"/>
+                  <measurement group_id="O2" value="1123"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Percentage of Patients Screened Positive for One of the Disorders</title>
+            <units>percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Iron Deficiency</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="17.5"/>
+                  <measurement group_id="O2" value="3.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>TB</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.8"/>
+                  <measurement group_id="O2" value="0.8"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Patients Diagnosed With One of the Disorders</title>
+        <time_frame>six months</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>CHICA Diagnosis Module</title>
+            <description>This arm had the CHICA screening module turned on
+CHICA diagnosis module: The CHICA module helped to screen and diagnose patients with tuberculosis or iron deficiency anemia</description>
+          </group>
+          <group group_id="O2">
+            <title>CHICA Placebo</title>
+            <description>This arm had CHICA but no additional module
+CHICA Placebo: This was CHICA without the screening module</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="1116"/>
+                  <measurement group_id="O2" value="1123"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Percentage of Patients Diagnosed With One of the Disorders</title>
+            <units>percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Iron Deficiency Anemia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.3"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>TB</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.2"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>six months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>CHICA Screening Module</title>
+          <description>This arm had the CHICA screening module turned on
+CHICA diagnosis module: The CHICA module helped to screen and diagnose patients with tuberculosis or iron deficiency anemia</description>
+        </group>
+        <group group_id="E2">
+          <title>CHICA Screening Control</title>
+          <description>This arm had CHICA but no additional module
+CHICA Placebo: This was CHICA without the screening module</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1116"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1123"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1116"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1123"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Aaron Carroll</name_or_title>
+      <organization>Indiana University School of Medicine</organization>
+      <phone>3172789616</phone>
+      <email>aaecarro@iu.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

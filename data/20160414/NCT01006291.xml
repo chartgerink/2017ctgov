@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6562">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01006291</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NN1250-3668</org_study_id>
+    <secondary_id>U1111-1111-7084</secondary_id>
+    <secondary_id>2008-005771-10</secondary_id>
+    <nct_id>NCT01006291</nct_id>
+  </id_info>
+  <brief_title>Comparison of NN1250 With Insulin Glargine in Type 2 Diabetes</brief_title>
+  <acronym>BEGIN™</acronym>
+  <official_title>A 26 Week Randomised, Controlled, Open Label, Multicentre, Multinational, Three-arm, Treat to Target Trial Comparing Efficacy and Safety of Three Different Dosing Regimens of Either Soluble Insulin Basal Analogue (SIBA) or Insulin Glargine With or Without Combination With OAD Treatment, in Subjects With Type 2 Diabetes Mellitus (BEGIN™ : FLEX)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novo Nordisk A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novo Nordisk A/S</source>
+  <oversight_info>
+    <authority>Argentina: Administracion Nacional de Medicamentos, Alimentos y Tecnologia</authority>
+    <authority>Finland: Finnish Medicines Agency</authority>
+    <authority>Hungary: National Institute of Pharmacy</authority>
+    <authority>India: Ministry of Health</authority>
+    <authority>Israel: Israeli Health Ministry Pharmaceutical Administration</authority>
+    <authority>Macedonia, The Former Yugoslav Republic of: Drug Agency, Ministry of Health</authority>
+    <authority>Malaysia: Ministry of Health</authority>
+    <authority>Mexico: National Institute of Public Health, Health Secretariat</authority>
+    <authority>Norway: Norwegian Medicines Agency</authority>
+    <authority>Russia: Pharmacological Committee, Ministry of Health</authority>
+    <authority>Serbia: Agency for Drugs and Medicinal Devices</authority>
+    <authority>South Africa: Medicines Control Council</authority>
+    <authority>Taiwan: Department of Health, Executive Yuan, R.O.C.</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is conducted in Africa, Asia, Europe and South America. The aim of this clinical
+      trial is to compare NN1250 (insulin degludec (IDeg) with insulin glargine (IGlar) in
+      patients with type 2 diabetes. Subjects treated with oral antidiabetic drug(s) (OAD(s))
+      should continue their current OAD treatment at the stable, prerandomisation dose level and
+      dosing frequency.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2009</start_date>
+  <completion_date type="Actual">September 2010</completion_date>
+  <primary_completion_date type="Actual">September 2010</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Change in Glycosylated Haemoglobin (HbA1c)</measure>
+    <time_frame>Week 0, Week 26</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline in HbA1c after 26 weeks of treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean of 9-point Self Measured Plasma Glucose Profile (SMPG)</measure>
+    <time_frame>Week 26</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Mean of SMPG after 26 weeks of treatment. Plasma glucose measured: before breakfast, 90 minutes after start of breakfast, before lunch, 90 minutes after start of lunch, before dinner, 90 minutes after start of dinner, before bedtime, at 4 am and before breakfast.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Confirmed Hypoglycaemic Episodes</measure>
+    <time_frame>Week 0 to Week 26 + 7 days follow up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Rate of confirmed hypoglycaemic episodes per 100 patient years of exposure (PYE). Confirmed hypoglycaemic episodes consisted of severe hypoglycaemia as well as minor hypoglycaemic episodes. Severe hypoglycaemic episodes are defined as requiring assistance to administer carbohydrate, glucagon, or other resuscitative actions. Minor hypoglycaemic episodes are defined as able to treat her/himself and plasma glucose below 3.1 mmol/L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Nocturnal Confirmed Hypoglycaemic Episodes</measure>
+    <time_frame>Week 0 to Week 26 + 7 days follow up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Rate of nocturnal confirmed hypoglycaemic episodes per 100 patient years of exposure (PYE). Confirmed hypoglycaemic episodes consisted of severe hypoglycaemia as well as minor hypoglycaemic episodes. Severe hypoglycaemic episodes are defined as requiring assistance to administer carbohydrate, glucagon, or other resuscitative actions. Minor hypoglycaemic episodes are defined as able to treat her/himself and plasma glucose below 3.1 mmol/L. Nocturnal hypoglycaemic episodes are defined as occurring between 00:01 and 05:59 a.m.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">687</enrollment>
+  <condition>Diabetes</condition>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <arm_group>
+    <arm_group_label>IDeg OD FF</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IDeg OD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IGlar OD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin degludec</intervention_name>
+    <description>Injected s.c. (under the skin) once daily (alternative regimen). Dose was individually adjusted.</description>
+    <arm_group_label>IDeg OD FF</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin degludec</intervention_name>
+    <description>Injected s.c. (under the skin) once daily. Dose was individually adjusted.</description>
+    <arm_group_label>IDeg OD</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin glargine</intervention_name>
+    <description>Insulin glargine injected s.c. (under the skin) once daily. Dose was individually adjusted.</description>
+    <arm_group_label>IGlar OD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Type 2 diabetes mellitus (diagnosed clinically) for at least 6 months
+
+          -  Current treatment: oral anti-diabetic drug(s) (OAD(s)) alone, basal insulin alone or
+             the combination of OAD(s) and basal insulin. Allowed OADs are: Metformin, insulin
+             secretagogues (sulphonylureas (SU) or glinides), pioglitazone with unchanged dosing
+             for at least 3 months prior to Visit 1
+
+          -  HbA1c: OADs only users 7.0-11.0 % (both inclusive), basal insulin with/without OADs
+             users 7.0-10.0% (both inclusive) by central laboratory analysis
+
+          -  Body Mass Index (BMI) below or equal to 40.0 kg/m^2
+
+        Exclusion Criteria:
+
+          -  Cancer and medical history of cancer hereof
+
+          -  Use within the last 3 months prior to Visit 1 of: glucagon-like peptide-1(GLP-1)
+             receptor agonist (exenatide, liraglutide), rosiglitazone, dipeptidyl peptidase IV
+             (DPP-IV) inhibitors, alpha-glucosidase-inhibitors
+
+          -  Cardiovascular disease, within the last 6 months prior to Visit 1, defined as:
+             stroke; decompensated heart failure New York Heart Association (NYHA) class III or
+             IV; myocardial infarction; unstable angina pectoris; or coronary arterial bypass
+             graft or angioplasty
+
+          -  Uncontrolled treated/untreated severe hypertension (systolic blood pressure at least
+             180 millimetre (mm) mercury (Hg) and/or diastolic blood pressure at least 100 mmHg)
+
+          -  Pregnancy, breast-feeding, the intention of becoming pregnant or not using adequate
+             contraceptive measures according to local requirements
+
+          -  Cancer and medical history of cancer hereof (except basal cell skin cancer and
+             squamous cell skin cancer)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Global Clinical Registry (GCR, 1452)</last_name>
+    <role>Study Director</role>
+    <affiliation>Novo Nordisk A/S</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1425AGC</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tampere</city>
+        <zip>FI-33520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Budapest</city>
+        <zip>1041</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Dehli</city>
+        <state>New Delhi</state>
+        <zip>110029</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kfar Saba</city>
+        <zip>44281</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Skopje</city>
+        <zip>1000</zip>
+        <country>Macedonia, The Former Yugoslav Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Putrajaya</city>
+        <zip>62250</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Mexico City</city>
+        <state>México, D.F.</state>
+        <zip>03300</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hamar</city>
+        <zip>2317</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moscow</city>
+        <zip>117036</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>1829</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Taipei</city>
+        <zip>114</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Belfast</city>
+        <zip>BT16 1RH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Finland</country>
+    <country>Hungary</country>
+    <country>India</country>
+    <country>Israel</country>
+    <country>Macedonia, The Former Yugoslav Republic of</country>
+    <country>Malaysia</country>
+    <country>Mexico</country>
+    <country>Norway</country>
+    <country>Russian Federation</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+    <country>Taiwan</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://novonordisk-trials.com</url>
+    <description>Clinical Trials at Novo Nordisk</description>
+  </link>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 12, 2015</lastchanged_date>
+  <firstreceived_date>October 30, 2009</firstreceived_date>
+  <firstreceived_results_date>October 12, 2015</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glargine</mesh_term>
+    <mesh_term>Insulin</mesh_term>
+    <mesh_term>Insulin, Globin Zinc</mesh_term>
+    <mesh_term>Insulin, Long-Acting</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>The trial was conducted at 69 sites in 14 countries: Hungary (3 sites), Macedonia (1 site), Serbia (3 sites), Finland (7 sites), Norway (6 sites), United Kingdom (6 sites), Argentina (4 sites), Mexico (2 sites), South Africa (3 sites), India (10 sites), Malaysia (5 sites), Taiwan (3 sites), Russian Federation (8 sites) and Israel (8 sites).</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>IDeg OD FF</title>
+          <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) with or without pre-trial OADs for 26 weeks with alternating morning and evening dosing according to a fixed flexible (FF) schedule (approximately 8-40 hours intervals between doses).</description>
+        </group>
+        <group group_id="P2">
+          <title>IDeg OD</title>
+          <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) at main evening meal with or without pre-trial OADs for 26 weeks.</description>
+        </group>
+        <group group_id="P3">
+          <title>IGlar OD</title>
+          <description>Insulin glargine (IGlar) was given once daily (OD) subcutaneously (s.c.) according to local labelling with or without pre-trial OADs for 26 weeks.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="229"/>
+                <participants group_id="P2" count="228"/>
+                <participants group_id="P3" count="230"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Exposed</title>
+              <participants_list>
+                <participants group_id="P1" count="230">1 subject withdrew before exposure to drug. 2 subjects randomised to IDeg OD received IDeg OD FF</participants>
+                <participants group_id="P2" count="226">2 subjects received IDeg OD FF</participants>
+                <participants group_id="P3" count="229">1 subject withdrew prior to exposure to trial drug</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="203"/>
+                <participants group_id="P2" count="204"/>
+                <participants group_id="P3" count="203"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="24"/>
+                <participants group_id="P3" count="27"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lack of Efficacy</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal criteria</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="14"/>
+                <participants group_id="P3" count="17"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>IDeg OD FF</title>
+          <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) with or without pre-trial OADs for 26 weeks with alternating morning and evening dosing according to a fixed flexible (FF) schedule (approximately 8-40 hours intervals between doses).</description>
+        </group>
+        <group group_id="B2">
+          <title>IDeg OD</title>
+          <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) at main evening meal with or without pre-trial OADs for 26 weeks.</description>
+        </group>
+        <group group_id="B3">
+          <title>IGlar OD</title>
+          <description>Insulin glargine (IGlar) was given once daily (OD) subcutaneously (s.c.) according to local labelling with or without pre-trial OADs for 26 weeks.</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="229"/>
+                <measurement group_id="B2" value="228"/>
+                <measurement group_id="B3" value="230"/>
+                <measurement group_id="B4" value="687"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="56.2" spread="10.3"/>
+                <measurement group_id="B2" value="56.5" spread="9.6"/>
+                <measurement group_id="B3" value="56.7" spread="8.8"/>
+                <measurement group_id="B4" value="56.4" spread="9.6"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="94"/>
+                <measurement group_id="B2" value="104"/>
+                <measurement group_id="B3" value="119"/>
+                <measurement group_id="B4" value="317"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="135"/>
+                <measurement group_id="B2" value="124"/>
+                <measurement group_id="B3" value="111"/>
+                <measurement group_id="B4" value="370"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Glycosylated haemoglobin (HbA1c)</title>
+          <units>percentage of glycosylated haemoglobin</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="8.5" spread="1.0"/>
+                <measurement group_id="B2" value="8.4" spread="0.9"/>
+                <measurement group_id="B3" value="8.4" spread="0.9"/>
+                <measurement group_id="B4" value="8.4" spread="0.9"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Fasting plasma glucose (FPG)</title>
+          <units>mmol/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="9.0" spread="2.6"/>
+                <measurement group_id="B2" value="8.8" spread="2.8"/>
+                <measurement group_id="B3" value="9.0" spread="2.8"/>
+                <measurement group_id="B4" value="8.9" spread="2.7"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Glycosylated Haemoglobin (HbA1c)</title>
+        <description>Change from baseline in HbA1c after 26 weeks of treatment</description>
+        <time_frame>Week 0, Week 26</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The Full analysis set (FAS) included all randomised subjects and missing data is imputed using last observation carried forward (LOCF). In FAS, subjects contributed to the evaluation 'as randomised'.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IDeg OD FF</title>
+            <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) with or without pre-trial OADs for 26 weeks with alternating morning and evening dosing according to a fixed flexible (FF) schedule (approximately 8-40 hours intervals between doses).</description>
+          </group>
+          <group group_id="O2">
+            <title>IDeg OD</title>
+            <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) at main evening meal with or without pre-trial OADs for 26 weeks.</description>
+          </group>
+          <group group_id="O3">
+            <title>IGlar OD</title>
+            <description>Insulin glargine (IGlar) was given once daily (OD) subcutaneously (s.c.) according to local labelling with or without pre-trial OADs for 26 weeks.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="229"/>
+                  <measurement group_id="O2" value="228"/>
+                  <measurement group_id="O3" value="230"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Change in Glycosylated Haemoglobin (HbA1c)</title>
+            <description>Change from baseline in HbA1c after 26 weeks of treatment</description>
+            <units>percentage of glycosylated haemoglobin</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="-1.28" spread="1.00"/>
+                  <measurement group_id="O2" value="-1.07" spread="0.99"/>
+                  <measurement group_id="O3" value="-1.26" spread="1.07"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mean of 9-point Self Measured Plasma Glucose Profile (SMPG)</title>
+        <description>Mean of SMPG after 26 weeks of treatment. Plasma glucose measured: before breakfast, 90 minutes after start of breakfast, before lunch, 90 minutes after start of lunch, before dinner, 90 minutes after start of dinner, before bedtime, at 4 am and before breakfast.</description>
+        <time_frame>Week 26</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The FAS included all randomised subjects and missing data is imputed using last observation carried forward (LOCF). In FAS, subjects contributed to the evaluation 'as randomised'. For 28 subjects all 9-point SMPG values were missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IDeg OD FF</title>
+            <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) with or without pre-trial OADs for 26 weeks with alternating morning and evening dosing according to a fixed flexible (FF) schedule (approximately 8-40 hours intervals between doses).</description>
+          </group>
+          <group group_id="O2">
+            <title>IDeg OD</title>
+            <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) at main evening meal with or without pre-trial OADs for 26 weeks.</description>
+          </group>
+          <group group_id="O3">
+            <title>IGlar OD</title>
+            <description>Insulin glargine (IGlar) was given once daily (OD) subcutaneously (s.c.) according to local labelling with or without pre-trial OADs for 26 weeks.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="216"/>
+                  <measurement group_id="O2" value="220"/>
+                  <measurement group_id="O3" value="223"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Mean of 9-point Self Measured Plasma Glucose Profile (SMPG)</title>
+            <description>Mean of SMPG after 26 weeks of treatment. Plasma glucose measured: before breakfast, 90 minutes after start of breakfast, before lunch, 90 minutes after start of lunch, before dinner, 90 minutes after start of dinner, before bedtime, at 4 am and before breakfast.</description>
+            <units>mmol/L</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="7.9" spread="1.8"/>
+                  <measurement group_id="O2" value="8.0" spread="2.1"/>
+                  <measurement group_id="O3" value="7.8" spread="1.9"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of Confirmed Hypoglycaemic Episodes</title>
+        <description>Rate of confirmed hypoglycaemic episodes per 100 patient years of exposure (PYE). Confirmed hypoglycaemic episodes consisted of severe hypoglycaemia as well as minor hypoglycaemic episodes. Severe hypoglycaemic episodes are defined as requiring assistance to administer carbohydrate, glucagon, or other resuscitative actions. Minor hypoglycaemic episodes are defined as able to treat her/himself and plasma glucose below 3.1 mmol/L.</description>
+        <time_frame>Week 0 to Week 26 + 7 days follow up</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The SAS included all subjects who received at least one dose of the investigational product or its comparator. In SAS, subjects contributed to the evaluation 'as treated'.230 subjects in the IDeg Flex group, 226 in the IDeg OD group and 229 in the IGlar OD group</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IDeg OD FF</title>
+            <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) with or without pre-trial OADs for 26 weeks with alternating morning and evening dosing according to a fixed flexible (FF) schedule (approximately 8-40 hours intervals between doses).</description>
+          </group>
+          <group group_id="O2">
+            <title>IDeg OD</title>
+            <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) at main evening meal with or without pre-trial OADs for 26 weeks.</description>
+          </group>
+          <group group_id="O3">
+            <title>IGlar OD</title>
+            <description>Insulin glargine (IGlar) was given once daily (OD) subcutaneously (s.c.) according to local labelling with or without pre-trial OADs for 26 weeks.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="230"/>
+                  <measurement group_id="O2" value="226"/>
+                  <measurement group_id="O3" value="229"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Rate of Confirmed Hypoglycaemic Episodes</title>
+            <description>Rate of confirmed hypoglycaemic episodes per 100 patient years of exposure (PYE). Confirmed hypoglycaemic episodes consisted of severe hypoglycaemia as well as minor hypoglycaemic episodes. Severe hypoglycaemic episodes are defined as requiring assistance to administer carbohydrate, glucagon, or other resuscitative actions. Minor hypoglycaemic episodes are defined as able to treat her/himself and plasma glucose below 3.1 mmol/L.</description>
+            <units>Episodes/100 years of patient exposure</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="364"/>
+                  <measurement group_id="O2" value="363"/>
+                  <measurement group_id="O3" value="348"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of Nocturnal Confirmed Hypoglycaemic Episodes</title>
+        <description>Rate of nocturnal confirmed hypoglycaemic episodes per 100 patient years of exposure (PYE). Confirmed hypoglycaemic episodes consisted of severe hypoglycaemia as well as minor hypoglycaemic episodes. Severe hypoglycaemic episodes are defined as requiring assistance to administer carbohydrate, glucagon, or other resuscitative actions. Minor hypoglycaemic episodes are defined as able to treat her/himself and plasma glucose below 3.1 mmol/L. Nocturnal hypoglycaemic episodes are defined as occurring between 00:01 and 05:59 a.m.</description>
+        <time_frame>Week 0 to Week 26 + 7 days follow up</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The SAS included all subjects who received at least one dose of the investigational product or its comparator. In SAS, subjects contributed to the evaluation 'as treated'.230 subjects in the IDeg Flex group, 226 in the IDeg OD group and 229 in the IGlar OD group</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IDeg OD FF</title>
+            <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) with or without pre-trial OADs for 26 weeks with alternating morning and evening dosing according to a fixed flexible (FF) schedule (approximately 8-40 hours intervals between doses).</description>
+          </group>
+          <group group_id="O2">
+            <title>IDeg OD</title>
+            <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) at main evening meal with or without pre-trial OADs for 26 weeks.</description>
+          </group>
+          <group group_id="O3">
+            <title>IGlar OD</title>
+            <description>Insulin glargine (IGlar) was given once daily (OD) subcutaneously (s.c.) according to local labelling with or without pre-trial OADs for 26 weeks.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="230"/>
+                  <measurement group_id="O2" value="226"/>
+                  <measurement group_id="O3" value="229"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Rate of Nocturnal Confirmed Hypoglycaemic Episodes</title>
+            <description>Rate of nocturnal confirmed hypoglycaemic episodes per 100 patient years of exposure (PYE). Confirmed hypoglycaemic episodes consisted of severe hypoglycaemia as well as minor hypoglycaemic episodes. Severe hypoglycaemic episodes are defined as requiring assistance to administer carbohydrate, glucagon, or other resuscitative actions. Minor hypoglycaemic episodes are defined as able to treat her/himself and plasma glucose below 3.1 mmol/L. Nocturnal hypoglycaemic episodes are defined as occurring between 00:01 and 05:59 a.m.</description>
+            <units>Episodes/100 years of patient exposure</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="63"/>
+                  <measurement group_id="O2" value="56"/>
+                  <measurement group_id="O3" value="75"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>The adverse events were collected in a time frame of 26 weeks + 7 days follow up</time_frame>
+      <desc>Safety analysis set includes all subjects who received at least one dose of the investigational product or its comparator.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>IDeg OD FF</title>
+          <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) with or without pre-trial OADs for 26 weeks with alternating morning and evening dosing according to a fixed flexible (FF) schedule (approximately 8-40 hours intervals between doses).</description>
+        </group>
+        <group group_id="E2">
+          <title>IDeg OD</title>
+          <description>Insulin degludec (IDeg) was given once daily (OD) subcutaneously (s.c.) at main evening meal with or without pre-trial OADs for 26 weeks.</description>
+        </group>
+        <group group_id="E3">
+          <title>IGlar OD</title>
+          <description>Insulin glargine (IGlar) was given once daily (OD) subcutaneously (s.c.) according to local labelling with or without pre-trial OADs for 26 weeks.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 13.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="230"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="226"/>
+                <counts group_id="E3" subjects_affected="4" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute coronary syndrome</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Coronary artery disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Death</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Appendicitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Subcutaneous abscess</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycaemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Hypoglycaemic unconsciousness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Colon cancer</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Myelodysplastic syndrome</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Oral neoplasm benign</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Pituitary tumour benign</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Renal cancer</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Carotid artery stenosis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Cerebrovascular accident</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adenomyosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Ovarian cyst</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="230"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angioedema</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Transurethral prostatectomy</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="230"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="226"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 13.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="58" subjects_at_risk="230"/>
+                <counts group_id="E2" subjects_affected="57" subjects_at_risk="226"/>
+                <counts group_id="E3" subjects_affected="53" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="12" subjects_affected="10" subjects_at_risk="230"/>
+                <counts group_id="E2" events="17" subjects_affected="14" subjects_at_risk="226"/>
+                <counts group_id="E3" events="11" subjects_affected="10" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" events="28" subjects_affected="23" subjects_at_risk="230"/>
+                <counts group_id="E2" events="28" subjects_affected="20" subjects_at_risk="226"/>
+                <counts group_id="E3" events="21" subjects_affected="18" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" events="21" subjects_affected="20" subjects_at_risk="230"/>
+                <counts group_id="E2" events="14" subjects_affected="11" subjects_at_risk="226"/>
+                <counts group_id="E3" events="27" subjects_affected="20" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="12" subjects_at_risk="230"/>
+                <counts group_id="E2" events="9" subjects_affected="9" subjects_at_risk="226"/>
+                <counts group_id="E3" events="9" subjects_affected="6" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="230"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="226"/>
+                <counts group_id="E3" events="13" subjects_affected="12" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="25" subjects_affected="16" subjects_at_risk="230"/>
+                <counts group_id="E2" events="18" subjects_affected="16" subjects_at_risk="226"/>
+                <counts group_id="E3" events="12" subjects_affected="9" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Novo Nordisk maintains the right to be informed of any Investigator plans for publication and to review any scientific paper, presentation, communication or other information concerning the investigation described in this protocol. Any such communication must be submitted in writing to the Novo Nordisk trial manager prior to submission for comments. Comments will be given within four weeks from receipt of the planned communication.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Public Access to Clinical Trials</name_or_title>
+      <organization>Novo Nordisk A/S</organization>
+      <email>clinicaltrials@novonordisk.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

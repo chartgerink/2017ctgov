@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="10709">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00633074</url>
+  </required_header>
+  <id_info>
+    <org_study_id>111454</org_study_id>
+    <nct_id>NCT00633074</nct_id>
+  </id_info>
+  <brief_title>Non-inferiority Study of GSK Biologicals' Influenza Vaccine GSK576389A Using Different Formulations</brief_title>
+  <official_title>Non-inferiority Study of GlaxoSmithKline Biologicals' Influenza Vaccine GSK576389A Using Different Formulations.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>Estonia: The State Agency of Medicine</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to show the non-inferiority of different formulations of
+      GlaxoSmithKline Biologicials' influenza vaccine.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2008</start_date>
+  <completion_date type="Actual">April 2008</completion_date>
+  <primary_completion_date type="Actual">April 2008</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Serum Haemagglutination-inhibition (HI) Antibody Titer Against the Three Vaccine Strains</measure>
+    <time_frame>Days 0 and 21</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Titers were expressed as Geometric Mean Titers (GMTs). The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Seropositive for HI Antibodies Against the Three Vaccine Strains</measure>
+    <time_frame>Days 0 and 21</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A seropositive subject was defined as a subject with a serum HI titer greater than or equal to 1:10. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Seroconverted for HI Antibodies Against the Three Vaccine Strains</measure>
+    <time_frame>Day 21</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A seroconverted subject was defined as a subject who had either a pre-vaccination titer below 1:10 and a post-vaccination titer greater than or equal to 1:40 or a pre-vaccination titer greater than or equal to 1:10 and at least a four-fold increase in post-vaccination titer. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HI Antibody Seroconversion Factors</measure>
+    <time_frame>Day 21</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Seroconversion factor was defined as the fold increase in serum HI GMTs post-vaccination compared to Day 0. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Seroprotected for HI Antibodies Against the Three Vaccine Strains</measure>
+    <time_frame>Days 0 and 21</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A seroprotected subject was defined as a suject with a serum HI titer greater than or equal to 1:40 that usually is accepted as indicating protection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any and Grade 3 Solicited Local Symptoms</measure>
+    <time_frame>During a 7-day period after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Solicited local symptoms assessed include ecchymosis, pain, redness and swelling. Any: any symptom regardless of intensity grade. Grade 3 pain: considerable pain at rest, which prevented normal everyday activities. Grade 3 ecchymosis, redness and swelling: more than 100 millimeter.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Solicited Local Symptoms</measure>
+    <time_frame>During a 7-day period after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Duration was expressed as median number of days the symptom persisted. Solicited local symptoms assessed include ecchymosis, pain, redness and swelling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any, Grade 3 and Related Solicited General Symptoms</measure>
+    <time_frame>During a 7-day period after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Solicited general symptoms assessed include arthralgia, fatigue, headache, myalgia, nausea, shivering and fever. Any: any symptom regardless of intensity grade; any fever: oral temperature greater than or equal to 38 degrees Celsius (°C). Grade 3: symptoms that prevented normal activity ; Grade 3 fever: oral temperature greater than 39°C. Related: symptom assessed by the investigator as causally related to the study vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Solicited General Symptoms</measure>
+    <time_frame>During a 7-day period after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Duration was expressed as median number of days the symptom persisted. Solicited general symptoms assessed include arthralgia, fatigue, headache, myalgia, nausea, shivering and fever.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any, Grade 3 and Related Unsolicited Adverse Events (AEs)</measure>
+    <time_frame>During a 21-day period after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Unsolicited AE covers any AE reported in addition to those solicited during the clinical study and any solicited symptom with onset outside the specified period of follow-up for solicited symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any, Grade 3 and Related Medically Significant Conditions (MSCs)</measure>
+    <time_frame>During a 21-day period after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Medically Significant Conditions (MSCs) included all unsolicited adverse events that resulted in a medically attended visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any and Related Serious Adverse Events (SAEs)</measure>
+    <time_frame>During the entire study period (up to Day 21)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>SAEs assessed include medical occurrences that result in death, are life threatening, require hospitalization or prolongation of hospitalization, result in disability/incapacity or are a congenital anomaly/birth defect in the offspring of a study subject.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">720</enrollment>
+  <condition>Influenza Infection</condition>
+  <arm_group>
+    <arm_group_label>Thiomersal-free FluAS25 adjuvanted vaccine group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Thiomersal reduced FluAS25 adjuvanted vaccine group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Thiomersal-free FluAS25 adjuvanted vaccine (GSK576389A)</intervention_name>
+    <description>Intramuscular administration, 1 dose</description>
+    <arm_group_label>Thiomersal-free FluAS25 adjuvanted vaccine group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Thiomersal reduced FluAS25 adjuvanted vaccine (GSK576389A)</intervention_name>
+    <description>Intramuscular administration, 1 dose</description>
+    <arm_group_label>Thiomersal reduced FluAS25 adjuvanted vaccine group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects who the investigator believes that they can and will comply with the
+             requirements of the protocol should be enrolled in the study.
+
+          -  A male or female 65 years of age or older at the time of vaccination.
+
+          -  Written informed consent obtained from the subject.
+
+          -  Free of an acute aggravation of the health status as established by clinical
+             evaluation (medical history and medical history directed examination) before entering
+             into the study.
+
+        Exclusion Criteria:
+
+          -  Suspected (based on clinical symptoms) or confirmed (based on laboratory results)
+             influenza infection within the last 6 months.
+
+          -  Use of any investigational or non-registered product (drug or vaccine) other than the
+             study vaccine(s) within 30 days preceding the first dose of study vaccine, or planned
+             use during the study period.
+
+          -  Administration of other licensed vaccines within 2 weeks (for inactivated vaccines)
+             or 4 weeks (for live vaccines) prior to enrolment in this study. Planned
+             administration of a vaccine not foreseen by the study protocol up to 21 days after
+             vaccination.
+
+          -  Planned administration of an influenza vaccine other than the study vaccines during
+             the entire study period.
+
+          -  Previous vaccination against influenza with any seasonal vaccine since July 2007.
+
+          -  Chronic administration of immunosuppressants or other immune-modifying drugs within
+             six months prior to the first vaccine dose.
+
+          -  Any confirmed or suspected immunosuppressive or immunodeficient condition, based on
+             medical history and physical examination.
+
+          -  History of hypersensitivity to a previous dose of influenza vaccine.
+
+          -  History of allergy or reactions likely to be exacerbated by any component of the
+             vaccine(s) including egg and chicken protein.
+
+          -  Acute (active) clinically significant pulmonary, cardiovascular, hepatic or renal
+             functional abnormality, as determined by clinical evaluation (medical history and
+             medical history directed physical examination) or pre-existing laboratory screening
+             tests.
+
+          -  Acute disease at the time of enrolment.
+
+          -  Administration of immunoglobulins and/or any blood products within the three months
+             preceding the first dose of study vaccine or planned administration during the study
+             period.
+
+          -  Any medical conditions in which IM injections are contraindicated
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Saku</city>
+        <zip>75501</zip>
+        <country>Estonia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tallinn</city>
+        <zip>13419</zip>
+        <country>Estonia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tartu</city>
+        <zip>50417</zip>
+        <country>Estonia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Estonia</country>
+  </location_countries>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 26, 2012</lastchanged_date>
+  <firstreceived_date>February 29, 2008</firstreceived_date>
+  <firstreceived_results_date>April 26, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Influenza</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+          <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+        </group>
+        <group group_id="P2">
+          <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+          <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="360"/>
+                <participants group_id="P2" count="360"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="359"/>
+                <participants group_id="P2" count="360"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+          <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+        </group>
+        <group group_id="B2">
+          <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+          <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="360"/>
+                <measurement group_id="B2" value="360"/>
+                <measurement group_id="B3" value="720"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <sub_title>Years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="72" spread="5.02"/>
+                <measurement group_id="B2" value="71.7" spread="4.88"/>
+                <measurement group_id="B3" value="71.85" spread="4.95"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>Subjects</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="263"/>
+                <measurement group_id="B2" value="257"/>
+                <measurement group_id="B3" value="520"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="97"/>
+                <measurement group_id="B2" value="103"/>
+                <measurement group_id="B3" value="200"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Serum Haemagglutination-inhibition (HI) Antibody Titer Against the Three Vaccine Strains</title>
+        <description>Titers were expressed as Geometric Mean Titers (GMTs). The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+        <time_frame>Days 0 and 21</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the According-to-Protocol (ATP) cohort for immunogenicity including all evaluable subjects for whom assay results were available for antibodies against at least one study vaccine antigen component after vaccination.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="357"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Serum Haemagglutination-inhibition (HI) Antibody Titer Against the Three Vaccine Strains</title>
+            <description>Titers were expressed as Geometric Mean Titers (GMTs). The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+            <units>Titer</units>
+            <param>Geometric Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <sub_title>A/Solomon Islands [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6.0" lower_limit="5.7" upper_limit="6.4"/>
+                  <measurement group_id="O2" value="6.0" lower_limit="5.7" upper_limit="6.3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Solomon Islands [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="86.5" lower_limit="75.8" upper_limit="98.8"/>
+                  <measurement group_id="O2" value="93.1" lower_limit="80.5" upper_limit="107.6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Wisconsin [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="15.9" lower_limit="13.9" upper_limit="18.1"/>
+                  <measurement group_id="O2" value="14.9" lower_limit="13.1" upper_limit="17.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Wisconsin [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="613.2" lower_limit="540.1" upper_limit="696.1"/>
+                  <measurement group_id="O2" value="519.3" lower_limit="451.5" upper_limit="597.3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>B/Malaysia [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="13.2" lower_limit="11.9" upper_limit="14.7"/>
+                  <measurement group_id="O2" value="13.0" lower_limit="11.7" upper_limit="14.5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>B/Malaysia [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="287.5" lower_limit="255.9" upper_limit="323.1"/>
+                  <measurement group_id="O2" value="264.9" lower_limit="235.5" upper_limit="297.9"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Seropositive for HI Antibodies Against the Three Vaccine Strains</title>
+        <description>A seropositive subject was defined as a subject with a serum HI titer greater than or equal to 1:10. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+        <time_frame>Days 0 and 21</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the According-to-Protocol (ATP) cohort for immunogenicity including all evaluable subjects for whom assay results were available for antibodies against at least one study vaccine antigen component after vaccination.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="357"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Seropositive for HI Antibodies Against the Three Vaccine Strains</title>
+            <description>A seropositive subject was defined as a subject with a serum HI titer greater than or equal to 1:10. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>A/Solomon Islands [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="67"/>
+                  <measurement group_id="O2" value="62"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Solomon Islands [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="342"/>
+                  <measurement group_id="O2" value="338"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Wisconsin [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="209"/>
+                  <measurement group_id="O2" value="199"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Wisconsin [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="357"/>
+                  <measurement group_id="O2" value="359"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>B/Malaysia [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="215"/>
+                  <measurement group_id="O2" value="208"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>B/Malaysia [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="355"/>
+                  <measurement group_id="O2" value="357"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Seroconverted for HI Antibodies Against the Three Vaccine Strains</title>
+        <description>A seroconverted subject was defined as a subject who had either a pre-vaccination titer below 1:10 and a post-vaccination titer greater than or equal to 1:40 or a pre-vaccination titer greater than or equal to 1:10 and at least a four-fold increase in post-vaccination titer. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+        <time_frame>Day 21</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the According-to-Protocol (ATP) cohort for immunogenicity including all evaluable subjects for whom assay results were available for antibodies against at least one study vaccine antigen component after vaccination.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="357"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Seroconverted for HI Antibodies Against the Three Vaccine Strains</title>
+            <description>A seroconverted subject was defined as a subject who had either a pre-vaccination titer below 1:10 and a post-vaccination titer greater than or equal to 1:40 or a pre-vaccination titer greater than or equal to 1:10 and at least a four-fold increase in post-vaccination titer. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>A/Solomon Islands</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="278"/>
+                  <measurement group_id="O2" value="281"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Wisconsin</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="336"/>
+                  <measurement group_id="O2" value="337"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>B/Malaysia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="332"/>
+                  <measurement group_id="O2" value="335"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>HI Antibody Seroconversion Factors</title>
+        <description>Seroconversion factor was defined as the fold increase in serum HI GMTs post-vaccination compared to Day 0. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+        <time_frame>Day 21</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the According-to-Protocol (ATP) cohort for immunogenicity including all evaluable subjects for whom assay results were available for antibodies against at least one study vaccine antigen component after vaccination.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="357"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>HI Antibody Seroconversion Factors</title>
+            <description>Seroconversion factor was defined as the fold increase in serum HI GMTs post-vaccination compared to Day 0. The three vaccine strains assessed included A/Solomon Islands, A/Wisconsin and B/Malaysia.</description>
+            <units>Fold increase</units>
+            <param>Geometric Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <sub_title>A/Solomon Islands</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="14.3" lower_limit="12.6" upper_limit="16.3"/>
+                  <measurement group_id="O2" value="15.6" lower_limit="13.5" upper_limit="18.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Wisconsin</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="38.7" lower_limit="33.6" upper_limit="44.5"/>
+                  <measurement group_id="O2" value="34.8" lower_limit="30.0" upper_limit="40.3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>B/Malaysia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="21.8" lower_limit="19.3" upper_limit="24.6"/>
+                  <measurement group_id="O2" value="20.3" lower_limit="18.0" upper_limit="22.9"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Seroprotected for HI Antibodies Against the Three Vaccine Strains</title>
+        <description>A seroprotected subject was defined as a suject with a serum HI titer greater than or equal to 1:40 that usually is accepted as indicating protection.</description>
+        <time_frame>Days 0 and 21</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the According-to-Protocol (ATP) cohort for immunogenicity including all evaluable subjects for whom assay results were available for antibodies against at least one study vaccine antigen component after vaccination.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="357"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Seroprotected for HI Antibodies Against the Three Vaccine Strains</title>
+            <description>A seroprotected subject was defined as a suject with a serum HI titer greater than or equal to 1:40 that usually is accepted as indicating protection.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>A/Solomon Islands [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="10"/>
+                  <measurement group_id="O2" value="6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Solomon Islands [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="280"/>
+                  <measurement group_id="O2" value="287"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Wisconsin [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="112"/>
+                  <measurement group_id="O2" value="97"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>A/Wisconsin [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="350"/>
+                  <measurement group_id="O2" value="348"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>B/Malaysia [Day 0]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="74"/>
+                  <measurement group_id="O2" value="75"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>B/Malaysia [Day 21]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="349"/>
+                  <measurement group_id="O2" value="351"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any and Grade 3 Solicited Local Symptoms</title>
+        <description>Solicited local symptoms assessed include ecchymosis, pain, redness and swelling. Any: any symptom regardless of intensity grade. Grade 3 pain: considerable pain at rest, which prevented normal everyday activities. Grade 3 ecchymosis, redness and swelling: more than 100 millimeter.</description>
+        <time_frame>During a 7-day period after vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the Total Vaccinated Cohort including all subjects with the study vaccine administered.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="360"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any and Grade 3 Solicited Local Symptoms</title>
+            <description>Solicited local symptoms assessed include ecchymosis, pain, redness and swelling. Any: any symptom regardless of intensity grade. Grade 3 pain: considerable pain at rest, which prevented normal everyday activities. Grade 3 ecchymosis, redness and swelling: more than 100 millimeter.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any ecchymosis</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="7"/>
+                  <measurement group_id="O2" value="6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 ecchymosis</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any pain</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="237"/>
+                  <measurement group_id="O2" value="246"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 pain</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any redness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="152"/>
+                  <measurement group_id="O2" value="161"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 redness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="10"/>
+                  <measurement group_id="O2" value="12"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any swelling</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="74"/>
+                  <measurement group_id="O2" value="90"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 swelling</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="4"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Solicited Local Symptoms</title>
+        <description>Duration was expressed as median number of days the symptom persisted. Solicited local symptoms assessed include ecchymosis, pain, redness and swelling.</description>
+        <time_frame>During a 7-day period after vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the Total Vaccinated Cohort on those subjects who reported the specific symptom.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="237"/>
+                  <measurement group_id="O2" value="246"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Duration of Solicited Local Symptoms</title>
+            <description>Duration was expressed as median number of days the symptom persisted. Solicited local symptoms assessed include ecchymosis, pain, redness and swelling.</description>
+            <units>Days</units>
+            <param>Median</param>
+            <dispersion>Full Range</dispersion>
+            <category_list>
+              <category>
+                <sub_title>Ecchymosis (N= 7; 6)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="4.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="3.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Pain (N= 237; 246)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="3.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Redness (N= 152; 161)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="4.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Swelling (N= 74; 90)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3.5" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="3.5" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any, Grade 3 and Related Solicited General Symptoms</title>
+        <description>Solicited general symptoms assessed include arthralgia, fatigue, headache, myalgia, nausea, shivering and fever. Any: any symptom regardless of intensity grade; any fever: oral temperature greater than or equal to 38 degrees Celsius (°C). Grade 3: symptoms that prevented normal activity ; Grade 3 fever: oral temperature greater than 39°C. Related: symptom assessed by the investigator as causally related to the study vaccination.</description>
+        <time_frame>During a 7-day period after vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the Total Vaccinated Cohort including all subjects with the study vaccine administered.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="360"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any, Grade 3 and Related Solicited General Symptoms</title>
+            <description>Solicited general symptoms assessed include arthralgia, fatigue, headache, myalgia, nausea, shivering and fever. Any: any symptom regardless of intensity grade; any fever: oral temperature greater than or equal to 38 degrees Celsius (°C). Grade 3: symptoms that prevented normal activity ; Grade 3 fever: oral temperature greater than 39°C. Related: symptom assessed by the investigator as causally related to the study vaccination.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any arthralgia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="78"/>
+                  <measurement group_id="O2" value="87"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 arthralgia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related arthralgia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="75"/>
+                  <measurement group_id="O2" value="85"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any fatigue</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="139"/>
+                  <measurement group_id="O2" value="143"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 fatigue</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related fatigue</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="139"/>
+                  <measurement group_id="O2" value="141"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any headache</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="109"/>
+                  <measurement group_id="O2" value="107"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 headache</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related headache</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="109"/>
+                  <measurement group_id="O2" value="105"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any myalgia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="111"/>
+                  <measurement group_id="O2" value="101"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 myalgia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related myalgia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="111"/>
+                  <measurement group_id="O2" value="99"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any nausea</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="38"/>
+                  <measurement group_id="O2" value="43"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 nausea</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related nausea</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="37"/>
+                  <measurement group_id="O2" value="42"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any shivering</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="45"/>
+                  <measurement group_id="O2" value="43"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 shivering</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related shivering</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="45"/>
+                  <measurement group_id="O2" value="43"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any fever</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="34"/>
+                  <measurement group_id="O2" value="38"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 fever</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related fever</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="34"/>
+                  <measurement group_id="O2" value="38"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Solicited General Symptoms</title>
+        <description>Duration was expressed as median number of days the symptom persisted. Solicited general symptoms assessed include arthralgia, fatigue, headache, myalgia, nausea, shivering and fever.</description>
+        <time_frame>During a 7-day period after vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the Total Vaccinated Cohort on those subjects who reported the specific symptom.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="139"/>
+                  <measurement group_id="O2" value="143"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Duration of Solicited General Symptoms</title>
+            <description>Duration was expressed as median number of days the symptom persisted. Solicited general symptoms assessed include arthralgia, fatigue, headache, myalgia, nausea, shivering and fever.</description>
+            <units>Days</units>
+            <param>Median</param>
+            <dispersion>Full Range</dispersion>
+            <category_list>
+              <category>
+                <sub_title>Arthralgia (N= 78; 87)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Fatigue (N= 139; 143)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Headache (N= 109; 107)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Myalgia (N= 111; 101)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Nausea (N= 38; 43)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.0" lower_limit="1.0" upper_limit="6.0"/>
+                  <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="6.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Shivering (N= 45; 43)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Fever (N= 26; 25)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                  <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="4.0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any, Grade 3 and Related Unsolicited Adverse Events (AEs)</title>
+        <description>Unsolicited AE covers any AE reported in addition to those solicited during the clinical study and any solicited symptom with onset outside the specified period of follow-up for solicited symptoms.</description>
+        <time_frame>During a 21-day period after vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the Total Vaccinated Cohort including all subjects with the study vaccine administered.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="360"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any, Grade 3 and Related Unsolicited Adverse Events (AEs)</title>
+            <description>Unsolicited AE covers any AE reported in addition to those solicited during the clinical study and any solicited symptom with onset outside the specified period of follow-up for solicited symptoms.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any AEs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="83"/>
+                  <measurement group_id="O2" value="71"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 AEs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related AEs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="61"/>
+                  <measurement group_id="O2" value="53"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any, Grade 3 and Related Medically Significant Conditions (MSCs)</title>
+        <description>Medically Significant Conditions (MSCs) included all unsolicited adverse events that resulted in a medically attended visit.</description>
+        <time_frame>During a 21-day period after vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the Total Vaccinated Cohort including all subjects with the study vaccine administered.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="360"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any, Grade 3 and Related Medically Significant Conditions (MSCs)</title>
+            <description>Medically Significant Conditions (MSCs) included all unsolicited adverse events that resulted in a medically attended visit.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any MSCs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="9"/>
+                  <measurement group_id="O2" value="5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 MSCs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related MSCs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any and Related Serious Adverse Events (SAEs)</title>
+        <description>SAEs assessed include medical occurrences that result in death, are life threatening, require hospitalization or prolongation of hospitalization, result in disability/incapacity or are a congenital anomaly/birth defect in the offspring of a study subject.</description>
+        <time_frame>During the entire study period (up to Day 21)</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The analysis was performed on the Total Vaccinated Cohort including all subjects with the study vaccine administered.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+          </group>
+          <group group_id="O2">
+            <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+            <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="360"/>
+                  <measurement group_id="O2" value="360"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any and Related Serious Adverse Events (SAEs)</title>
+            <description>SAEs assessed include medical occurrences that result in death, are life threatening, require hospitalization or prolongation of hospitalization, result in disability/incapacity or are a congenital anomaly/birth defect in the offspring of a study subject.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any SAEs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related SAEs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Events collected by systematic assessment: 7-day follow-up period after vaccination. Events collected by non-systematic assessment: 21-day follow-up period after vaccination.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Thiomersal-free FluAS25 Adjuvanted Vaccine Group</title>
+          <description>Subjects received 1 dose of thiomersal-free FluAS25 adjuvanted vaccine</description>
+        </group>
+        <group group_id="E2">
+          <title>Thiomersal Reduced FluAS25 Adjuvanted Vaccine Group</title>
+          <description>Subjects received 1 dose of thiomersal reduced FluAS25 adjuvanted vaccine</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="360"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="360"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arterial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="360"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Circulatory collapse</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="360"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="237" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="246" subjects_at_risk="360"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="237" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="246" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Redness</sub_title>
+                <counts group_id="E1" subjects_affected="152" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="161" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Swelling</sub_title>
+                <counts group_id="E1" subjects_affected="74" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="90" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="78" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="87" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="139" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="143" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="109" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="107" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="111" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="101" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="38" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="43" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Shivering</sub_title>
+                <counts group_id="E1" subjects_affected="45" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="43" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" subjects_affected="34" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="38" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Injection site pruritus</sub_title>
+                <assessment>Non-systematic Assessment</assessment>
+                <counts group_id="E1" subjects_affected="34" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="30" subjects_at_risk="360"/>
+              </event>
+              <event>
+                <sub_title>Injection site induration</sub_title>
+                <assessment>Non-systematic Assessment</assessment>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="360"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="360"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>GSK Response Center</name_or_title>
+      <organization>GlaxoSmithKline</organization>
+      <phone>866-435-7343</phone>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

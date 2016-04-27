@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9446">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00750360</url>
+  </required_header>
+  <id_info>
+    <org_study_id>218352/054</org_study_id>
+    <nct_id>NCT00750360</nct_id>
+  </id_info>
+  <brief_title>Study to Monitor the Safety and Reactogenicity of Fluarix™ in Korean Subjects Aged &gt; 6 Months of Age.</brief_title>
+  <official_title>Study to Monitor the Safety and Reactogenicity of GlaxoSmithKline Biologicals' Influenza Split Vaccine FLUARIX™ Administered According to the Prescribing Information in Korean Subjects Aged &gt; 6 Months of Age at the Time of Vaccination.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>South Korea: Korea Food and Drug Administration (KFDA)</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present study collects data on safety and reactogenicity of the vaccine in the local
+      target population (600 or more subjects) as per the requirement of Korean Food and Drugs
+      Administration (KFDA).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2003</start_date>
+  <primary_completion_date type="Actual">December 2007</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Number of Participants Reporting Severe Unsolicited Adverse Events</measure>
+    <time_frame>During the 21-day follow-up period (Day 0 to Day 20) after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Reporting Solicited Local and General Adverse Events in Subjects Aged Less Than 72 Months.</measure>
+    <time_frame>During the 4-day follow up (Day 0 to 3) after vaccination.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Reporting Solicited Local and General Adverse Events in Subjects Aged 72 Months and Older.</measure>
+    <time_frame>During the 4-day follow up (Day 0 to 3) after vaccination.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participant Reporting Unsolicited Adverse Events.</measure>
+    <time_frame>During the 21-day follow-up period (Day 0 to Day 20) after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Reporting Serious Adverse Events (SAE).</measure>
+    <time_frame>Within 1 month following vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">883</enrollment>
+  <condition>Seasonal Influenza</condition>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects aged &lt; 9 years who were previously not vaccinated against influenza</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects aged ≥ 9 years and subjects 6 months to 9 years who have previously been vaccinated against influenza</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>FluarixTM</intervention_name>
+    <description>All subjects will receive a single dose of FluarixTM. For children less than 9 years of age who have not previously been vaccinated against influenza, a second dose will be given after an interval of at least 4 weeks (Group B).</description>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  A male or female &gt; 6 months of age at the time of the first vaccination.
+
+          -  Subjects who the investigator believes that they and/or their parents/guardians can
+             and will comply with the requirements of the protocol should be enrolled in the
+             study.
+
+          -  Free of obvious health problems as established by medical history and clinical
+             examination judged by the investigator before entering into the study.
+
+          -  If the subject is female, she must be of non-childbearing potential, or, if of
+             childbearing potential, she must be abstinent or have used adequate contraceptive
+             precautions for 30 days prior to vaccination, have a negative pregnancy test and must
+             agree to continue such precautions for two months after vaccination.
+
+        Exclusion Criteria:
+
+          -  Clinical signs of acute febrile illness at the time of entry into the study.
+
+          -  Any treatment with immunosuppressive drugs, including oral and parenteral
+             corticosteroids.
+
+          -  History of allergic disease or reactions likely to be exacerbated by any component of
+             the vaccine or previous severe reaction to influenza virus vaccine.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <removed_countries>
+    <country>Korea, Republic of</country>
+  </removed_countries>
+  <verification_date>April 2009</verification_date>
+  <lastchanged_date>April 8, 2009</lastchanged_date>
+  <firstreceived_date>September 9, 2008</firstreceived_date>
+  <firstreceived_results_date>December 23, 2008</firstreceived_results_date>
+  <responsible_party>
+    <name_title>Study Director</name_title>
+    <organization>GSK</organization>
+  </responsible_party>
+  <keyword>Influenza</keyword>
+  <keyword>FluarixTM</keyword>
+  <keyword>Korea</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Unprimed, &gt; 6 to &lt; 72 Months</title>
+          <description>Subjects aged &gt; 6 months to &lt; 72 months who were previously not vaccinated against influenza (unprimed).</description>
+        </group>
+        <group group_id="P2">
+          <title>Unprimed, ≥ 72 to &lt; 108 Months</title>
+          <description>Subjects aged ≥ 72 months to &lt; 108 months who were previously not vaccinated against influenza (unprimed).</description>
+        </group>
+        <group group_id="P3">
+          <title>Primed, &gt; 6 to &lt; 72 Months</title>
+          <description>Subjects aged &gt; 6 months to &lt; 72 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="P4">
+          <title>Primed, ≥ 72 to &lt; 108 Months</title>
+          <description>Subjects aged ≥ 72 months to &lt; 108 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="P5">
+          <title>Primed, ≥ 108 to &lt; 216 Months</title>
+          <description>Subjects aged ≥ 108 months to &lt; 216 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="P6">
+          <title>Primed, ≥ 216 Months</title>
+          <description>Subjects aged ≥ 216 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="294">Seven subjects enrolled in this group were not vaccinated and as such not included as &quot;STARTED&quot;.</participants>
+                <participants group_id="P2" count="1">One subject enrolled in this group was not vaccinated and as such not included as &quot;STARTED&quot;.</participants>
+                <participants group_id="P3" count="384"/>
+                <participants group_id="P4" count="79"/>
+                <participants group_id="P5" count="46"/>
+                <participants group_id="P6" count="71"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="294"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="384"/>
+                <participants group_id="P4" count="79"/>
+                <participants group_id="P5" count="46"/>
+                <participants group_id="P6" count="71"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Unprimed, &gt; 6 to &lt; 72 Months</title>
+          <description>Subjects aged &gt; 6 months to &lt; 72 months who were previously not vaccinated against influenza (unprimed).</description>
+        </group>
+        <group group_id="B2">
+          <title>Unprimed, ≥ 72 to &lt; 108 Months</title>
+          <description>Subjects aged ≥ 72 months to &lt; 108 months who were previously not vaccinated against influenza (unprimed).</description>
+        </group>
+        <group group_id="B3">
+          <title>Primed, &gt; 6 to &lt; 72 Months</title>
+          <description>Subjects aged &gt; 6 months to &lt; 72 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="B4">
+          <title>Primed, ≥ 72 to &lt; 108 Months</title>
+          <description>Subjects aged ≥ 72 months to &lt; 108 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="B5">
+          <title>Primed, ≥ 108 to &lt; 216 Months</title>
+          <description>Subjects aged ≥ 108 months to &lt; 216 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="B6">
+          <title>Primed, ≥ 216 Months</title>
+          <description>Subjects aged ≥ 216 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="B7">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="294"/>
+                <measurement group_id="B2" value="1"/>
+                <measurement group_id="B3" value="384"/>
+                <measurement group_id="B4" value="79"/>
+                <measurement group_id="B5" value="46"/>
+                <measurement group_id="B6" value="71"/>
+                <measurement group_id="B7" value="875"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>months</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="13.7" spread="10.60"/>
+                <measurement group_id="B2" value="85.0" spread="0"/>
+                <measurement group_id="B3" value="38.3" spread="18.80"/>
+                <measurement group_id="B4" value="86.4" spread="10.60"/>
+                <measurement group_id="B5" value="132.7" spread="22.00"/>
+                <measurement group_id="B6" value="454.5" spread="174.40"/>
+                <measurement group_id="B7" value="73.2" spread="128.07"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="142"/>
+                <measurement group_id="B2" value="1"/>
+                <measurement group_id="B3" value="178"/>
+                <measurement group_id="B4" value="41"/>
+                <measurement group_id="B5" value="27"/>
+                <measurement group_id="B6" value="56"/>
+                <measurement group_id="B7" value="445"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="152"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="206"/>
+                <measurement group_id="B4" value="38"/>
+                <measurement group_id="B5" value="19"/>
+                <measurement group_id="B6" value="15"/>
+                <measurement group_id="B7" value="430"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Reporting Severe Unsolicited Adverse Events</title>
+        <description>An Adverse Event is any untoward medical occurrence in a clinical investigation subject, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product.
+Severe unsolicited adverse events are defined as adverse events which prevent normal, everyday activities</description>
+        <time_frame>During the 21-day follow-up period (Day 0 to Day 20) after vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Unprimed, &gt; 6 to &lt; 72 Months</title>
+            <description>Subjects aged &gt; 6 months to &lt; 72 months who were previously not vaccinated against influenza (unprimed).</description>
+          </group>
+          <group group_id="O2">
+            <title>Unprimed, ≥ 72 to &lt; 108 Months</title>
+            <description>Subjects aged ≥ 72 months to &lt; 108 months who were previously not vaccinated against influenza (unprimed).</description>
+          </group>
+          <group group_id="O3">
+            <title>Primed, &gt; 6 to &lt; 72 Months</title>
+            <description>Subjects aged &gt; 6 months to &lt; 72 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O4">
+            <title>Primed, ≥ 72 to &lt; 108 Months</title>
+            <description>Subjects aged ≥ 72 months to &lt; 108 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O5">
+            <title>Primed, ≥ 108 to &lt; 216 Months</title>
+            <description>Subjects aged ≥ 108 months to &lt; 216 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O6">
+            <title>Primed, ≥ 216 Months</title>
+            <description>Subjects aged ≥ 216 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="294"/>
+                  <measurement group_id="O2" value="1"/>
+                  <measurement group_id="O3" value="384"/>
+                  <measurement group_id="O4" value="79"/>
+                  <measurement group_id="O5" value="46"/>
+                  <measurement group_id="O6" value="71"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Participants Reporting Severe Unsolicited Adverse Events</title>
+            <description>An Adverse Event is any untoward medical occurrence in a clinical investigation subject, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product.
+Severe unsolicited adverse events are defined as adverse events which prevent normal, everyday activities</description>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="0"/>
+                  <measurement group_id="O3" value="0"/>
+                  <measurement group_id="O4" value="0"/>
+                  <measurement group_id="O5" value="0"/>
+                  <measurement group_id="O6" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Reporting Solicited Local and General Adverse Events in Subjects Aged Less Than 72 Months.</title>
+        <description>Solicited local adverse events assessed include induration, pain, redness, and swelling. Solicited general adverse events assessed include fever, shivering, and sweating/diaphoresis.</description>
+        <time_frame>During the 4-day follow up (Day 0 to 3) after vaccination.</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Group B (Unprimed), &gt; 6 Months to &lt; 72 Months</title>
+            <description>Subjects aged &gt; 6 months to &lt; 72 months who were previously not vaccinated against influenza (unprimed).</description>
+          </group>
+          <group group_id="O2">
+            <title>Group A (Primed), &gt; 6 Months to &lt; 72 Months</title>
+            <description>Subjects aged &gt; 6 months to &lt; 72 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="294"/>
+                  <measurement group_id="O2" value="384"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Participants Reporting Solicited Local and General Adverse Events in Subjects Aged Less Than 72 Months.</title>
+            <description>Solicited local adverse events assessed include induration, pain, redness, and swelling. Solicited general adverse events assessed include fever, shivering, and sweating/diaphoresis.</description>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Induration</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                  <measurement group_id="O2" value="22"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Pain</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                  <measurement group_id="O2" value="58"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Redness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                  <measurement group_id="O2" value="40"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Swelling</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                  <measurement group_id="O2" value="36"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Fever</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="7"/>
+                  <measurement group_id="O2" value="9"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Shivering</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Sweating/diaphoresis</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="2"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Reporting Solicited Local and General Adverse Events in Subjects Aged 72 Months and Older.</title>
+        <description>Solicited local adverse events assessed include induration, pain, redness, and swelling. Solicited general adverse events assessed include fatigue, fever, shivering, malaise, myalgia, headache, and sweating/diaphoresis.</description>
+        <time_frame>During the 4-day follow up (Day 0 to 3) after vaccination.</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Group B (Unprimed), ≥ 72 Months to &lt; 108 Months</title>
+            <description>Subjects aged ≥ 72 months to &lt; 108 months who were previously not vaccinated against influenza (unprimed).</description>
+          </group>
+          <group group_id="O2">
+            <title>Group A (Primed), ≥ 72 Months to &lt; 108 Months</title>
+            <description>Subjects aged ≥ 72 months to &lt; 108 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O3">
+            <title>Group A (Primed), ≥ 108 Months to &lt; 216 Months</title>
+            <description>Subjects aged ≥ 108 months to &lt; 216 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O4">
+            <title>Group A (Primed), ≥ 216 Months</title>
+            <description>Subjects aged ≥ 216 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="79"/>
+                  <measurement group_id="O3" value="46"/>
+                  <measurement group_id="O4" value="71"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Participants Reporting Solicited Local and General Adverse Events in Subjects Aged 72 Months and Older.</title>
+            <description>Solicited local adverse events assessed include induration, pain, redness, and swelling. Solicited general adverse events assessed include fatigue, fever, shivering, malaise, myalgia, headache, and sweating/diaphoresis.</description>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Pain</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="23"/>
+                  <measurement group_id="O3" value="7"/>
+                  <measurement group_id="O4" value="10"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Redness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="11"/>
+                  <measurement group_id="O3" value="7"/>
+                  <measurement group_id="O4" value="4"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Swelling</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="10"/>
+                  <measurement group_id="O3" value="6"/>
+                  <measurement group_id="O4" value="4"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Induration</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="8"/>
+                  <measurement group_id="O3" value="5"/>
+                  <measurement group_id="O4" value="4"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Fatigue</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="3"/>
+                  <measurement group_id="O3" value="3"/>
+                  <measurement group_id="O4" value="2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Fever</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="2"/>
+                  <measurement group_id="O3" value="1"/>
+                  <measurement group_id="O4" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Headache</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="4"/>
+                  <measurement group_id="O3" value="2"/>
+                  <measurement group_id="O4" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Malaise</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="1"/>
+                  <measurement group_id="O3" value="1"/>
+                  <measurement group_id="O4" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Myalgia</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="6"/>
+                  <measurement group_id="O3" value="3"/>
+                  <measurement group_id="O4" value="5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Shivering</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="0"/>
+                  <measurement group_id="O3" value="0"/>
+                  <measurement group_id="O4" value="2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Sweating/diaphoresis</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="0"/>
+                  <measurement group_id="O3" value="0"/>
+                  <measurement group_id="O4" value="2"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participant Reporting Unsolicited Adverse Events.</title>
+        <description>An Adverse Event is any untoward medical occurrence in a clinical investigation subject, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product.</description>
+        <time_frame>During the 21-day follow-up period (Day 0 to Day 20) after vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Unprimed, &gt; 6 to &lt; 72 Months</title>
+            <description>Subjects aged &gt; 6 months to &lt; 72 months who were previously not vaccinated against influenza (unprimed).</description>
+          </group>
+          <group group_id="O2">
+            <title>Unprimed, ≥ 72 to &lt; 108 Months</title>
+            <description>Subjects aged ≥ 72 months to &lt; 108 months who were previously not vaccinated against influenza (unprimed).</description>
+          </group>
+          <group group_id="O3">
+            <title>Primed, &gt; 6 to &lt; 72 Months</title>
+            <description>Subjects aged &gt; 6 months to &lt; 72 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O4">
+            <title>Primed, ≥ 72 to &lt; 108 Months</title>
+            <description>Subjects aged ≥ 72 months to &lt; 108 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O5">
+            <title>Primed, ≥ 108 to &lt; 216 Months</title>
+            <description>Subjects aged ≥ 108 months to &lt; 216 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O6">
+            <title>Primed, ≥ 216 Months</title>
+            <description>Subjects aged ≥ 216 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="294"/>
+                  <measurement group_id="O2" value="1"/>
+                  <measurement group_id="O3" value="384"/>
+                  <measurement group_id="O4" value="79"/>
+                  <measurement group_id="O5" value="46"/>
+                  <measurement group_id="O6" value="71"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Participant Reporting Unsolicited Adverse Events.</title>
+            <description>An Adverse Event is any untoward medical occurrence in a clinical investigation subject, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product.</description>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="28"/>
+                  <measurement group_id="O2" value="0"/>
+                  <measurement group_id="O3" value="67"/>
+                  <measurement group_id="O4" value="12"/>
+                  <measurement group_id="O5" value="6"/>
+                  <measurement group_id="O6" value="3"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Reporting Serious Adverse Events (SAE).</title>
+        <description>An SAE is any untoward medical occurrence that:
+results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity, is a congenital anomaly/birth defect in the offspring of a study subject, or may evolve into one of the outcomes listed above.</description>
+        <time_frame>Within 1 month following vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Unprimed, &gt; 6 to &lt; 72 Months</title>
+            <description>Subjects aged &gt; 6 months to &lt; 72 months who were previously not vaccinated against influenza (unprimed).</description>
+          </group>
+          <group group_id="O2">
+            <title>Unprimed, ≥ 72 to &lt; 108 Months</title>
+            <description>Subjects aged ≥ 72 months to &lt; 108 months who were previously not vaccinated against influenza (unprimed).</description>
+          </group>
+          <group group_id="O3">
+            <title>Primed, &gt; 6 to &lt; 72 Months</title>
+            <description>Subjects aged &gt; 6 months to &lt; 72 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O4">
+            <title>Primed, ≥ 72 to &lt; 108 Months</title>
+            <description>Subjects aged ≥ 72 months to &lt; 108 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O5">
+            <title>Primed, ≥ 108 to &lt; 216 Months</title>
+            <description>Subjects aged ≥ 108 months to &lt; 216 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+          <group group_id="O6">
+            <title>Primed, ≥ 216 Months</title>
+            <description>Subjects aged ≥ 216 months who previously received a vaccination against influenza (primed).</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="294"/>
+                  <measurement group_id="O2" value="1"/>
+                  <measurement group_id="O3" value="384"/>
+                  <measurement group_id="O4" value="79"/>
+                  <measurement group_id="O5" value="46"/>
+                  <measurement group_id="O6" value="71"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Participants Reporting Serious Adverse Events (SAE).</title>
+            <description>An SAE is any untoward medical occurrence that:
+results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity, is a congenital anomaly/birth defect in the offspring of a study subject, or may evolve into one of the outcomes listed above.</description>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="0"/>
+                  <measurement group_id="O3" value="0"/>
+                  <measurement group_id="O4" value="0"/>
+                  <measurement group_id="O5" value="0"/>
+                  <measurement group_id="O6" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Unprimed, &gt; 6 to &lt; 72 Months</title>
+          <description>Subjects aged &gt; 6 months to &lt; 72 months who were previously not vaccinated against influenza (unprimed).</description>
+        </group>
+        <group group_id="E2">
+          <title>Unprimed, ≥ 72 to &lt; 108 Months</title>
+          <description>Subjects aged ≥ 72 months to &lt; 108 months who were previously not vaccinated against influenza (unprimed).</description>
+        </group>
+        <group group_id="E3">
+          <title>Primed, &gt; 6 to &lt; 72 Months</title>
+          <description>Subjects aged &gt; 6 months to &lt; 72 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="E4">
+          <title>Primed, ≥ 72 to &lt; 108 Months</title>
+          <description>Subjects aged ≥ 72 months to &lt; 108 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="E5">
+          <title>Primed, ≥ 108 to &lt; 216 Months</title>
+          <description>Subjects aged ≥ 108 months to &lt; 216 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+        <group group_id="E6">
+          <title>Primed, ≥ 216 Months</title>
+          <description>Subjects aged ≥ 216 months who previously received a vaccination against influenza (primed).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1"/>
+                <counts group_id="E2" subjects_affected="0"/>
+                <counts group_id="E3" subjects_affected="0"/>
+                <counts group_id="E4" subjects_affected="0"/>
+                <counts group_id="E5" subjects_affected="0"/>
+                <counts group_id="E6" subjects_affected="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Kawasaki’s disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="294"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="384"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="46"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="71"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5.0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="7"/>
+                <counts group_id="E2" subjects_affected="0"/>
+                <counts group_id="E3" subjects_affected="58"/>
+                <counts group_id="E4" subjects_affected="23"/>
+                <counts group_id="E5" subjects_affected="7"/>
+                <counts group_id="E6" subjects_affected="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="294"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" subjects_affected="58" subjects_at_risk="384"/>
+                <counts group_id="E4" subjects_affected="23" subjects_at_risk="79"/>
+                <counts group_id="E5" subjects_affected="7" subjects_at_risk="46"/>
+                <counts group_id="E6" subjects_affected="10" subjects_at_risk="71"/>
+              </event>
+              <event>
+                <sub_title>Redness</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="294"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" subjects_affected="40" subjects_at_risk="384"/>
+                <counts group_id="E4" subjects_affected="11" subjects_at_risk="79"/>
+                <counts group_id="E5" subjects_affected="7" subjects_at_risk="46"/>
+                <counts group_id="E6" subjects_affected="4" subjects_at_risk="71"/>
+              </event>
+              <event>
+                <sub_title>Swelling</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="294"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" subjects_affected="36" subjects_at_risk="384"/>
+                <counts group_id="E4" subjects_affected="10" subjects_at_risk="79"/>
+                <counts group_id="E5" subjects_affected="6" subjects_at_risk="46"/>
+                <counts group_id="E6" subjects_affected="4" subjects_at_risk="71"/>
+              </event>
+              <event>
+                <sub_title>Induration</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="294"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" subjects_affected="22" subjects_at_risk="384"/>
+                <counts group_id="E4" subjects_affected="8" subjects_at_risk="79"/>
+                <counts group_id="E5" subjects_affected="5" subjects_at_risk="46"/>
+                <counts group_id="E6" subjects_affected="4" subjects_at_risk="71"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>GSK Response Center</name_or_title>
+      <organization>GlaxoSmithKline</organization>
+      <phone>866-435-7343</phone>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

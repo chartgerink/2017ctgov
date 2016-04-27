@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1642">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01702454</url>
+  </required_header>
+  <id_info>
+    <org_study_id>116023</org_study_id>
+    <secondary_id>2012-001230-34</secondary_id>
+    <nct_id>NCT01702454</nct_id>
+  </id_info>
+  <brief_title>Immunogenicity and Safety Study of GlaxoSmithKline (GSK) Biologicals' Influenza Vaccine When Administered in Children Who Previously Participated in Study 115345</brief_title>
+  <official_title>Immunogenicity, Safety and Reactogenicity Study of GSK Biologicals' Quadrivalent Seasonal Influenza Candidate Vaccine GSK2321138A, Administered to Children Who Previously Participated in Study 115345</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>Spain: Agencia Española del Medicamento y Productos Sanitarios</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>Poland: Drug Institute for Registration of Medicinal Products</authority>
+    <authority>Czech Republic: State Institute for Drug Control</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety and immunogenicity of GSK Biologicals'
+      investigational vaccine GSK2321138A in children who previously participated in study 115345
+      (FLU D-QIV-004 PRI) (NCT01439360).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2012</start_date>
+  <completion_date type="Actual">June 2013</completion_date>
+  <primary_completion_date type="Actual">June 2013</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Serum Hemagglutination Inhibition (HI) Antibody Titers Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</measure>
+    <time_frame>At Day 0 and Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Antibody titers were expressed as Geometric Mean Titers (GMTs). The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Seropositive Subjects Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</measure>
+    <time_frame>At Day 0 and Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Seropositivity was defined as number of subjects with antibody titers greater than or equal to (≥) 1:10. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects Seroconverted for HI Antibodies Against Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</measure>
+    <time_frame>At Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A seroconverted subject was defined as a subject who had either a pre-vaccination titer below 1:10 and a post-vaccination titer ≥ 1:40 or a pre-vaccination titer ≥ 1:10 and at least a 4-fold increase in post-vaccination titer. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean Geometric Increase (MGI) for HI Antibody Titer Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</measure>
+    <time_frame>At Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects Seroprotected for Anti-HA Antibodies Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</measure>
+    <time_frame>At Day 0 and Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Seroprotection rate SPR was defined as the number of vaccinees with serum haemagglutination inhibition (HI) titer ≥ 1:40 that usually is accepted as indicating protection in adults. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects With HI Antibody Titers Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</measure>
+    <time_frame>At Day 0 and Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The cut-off values assessed were less than (&lt;) 1:10, 1:10 to &lt; 1:40 and ≥ 1:40. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Neutralising Antibody Titers Against Each of the Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</measure>
+    <time_frame>At Day 0 and Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Antibody titers were expressed as Geometric mean titers (GMTs). The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Anti-neuraminidase Antibody Titers Against Each of the Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</measure>
+    <time_frame>At Day 0 and Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Antibody titers were expressed as GMTs. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine Response Rate (VRR) for Neutralising Antibody Titers Against Each of the Four Vaccine Strains.</measure>
+    <time_frame>At Day 7 post dose 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>VRR was defined as the number of vaccinees who had either a pre-vaccination titer &lt;cut-off and a post-vaccination titer ≥ 4-fold of half of the cut-off or a pre-vaccination titer ≥cut-off and at least a 4-fold increase in post-vaccination titers. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MGI for Neutralising Antibodies Titres Against Each of the Four Vaccine Strains.</measure>
+    <time_frame>At Day 7</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VRR for Anti-neuraminidase Antibody Titers Against Each of the Four Vaccine Strains.</measure>
+    <time_frame>At Day 7 post dose 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>VRR was defined as the number of vaccinees who had either a pre-vaccination titer &lt;cut-off and a post-vaccination titer ≥ 4-fold of half of the cut-off or a pre-vaccination titer ≥cut-off and at least a 4-fold increase in post-vaccination titers. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MGI for Anti-neuraminidase Antibodies Titers Against Each of the Four Vaccine Strains.</measure>
+    <time_frame>At Day 7 post dose 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any and Grade 3 Solicited Local Adverse Events (AEs)</measure>
+    <time_frame>During a 7-day (Day 0 to 6) follow-up period after first vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Solicited local AEs assessed were pain, redness and swelling. Any = any solicited local AE reported irrespective of intensity grade. Grade 3 pain = cried when limb was moved/spontaneously painful. Grade 3 redness and swelling was defined as redness/swelling above 50 millimeter (mm).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Solicted Symptoms</measure>
+    <time_frame>During the 7-day (Days 0-6) post-vaccination Dose 1 period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Duration was defined as number of days with any grade of solicted local and/or general symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any, Grade 3 and Related Solicited General Symptoms.</measure>
+    <time_frame>During the 7 days (Days 0 - 6) post dose 1 vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Solicited general symptoms assessed were drowsiness, Irritability/Fussiness, loss of appetite and Temperature. Any Temperature = axillary temperature ≥37.5 degrees Celsius (°C). Any = any solicited general symptom reported irrespective of intensity and relationship to vaccination. Related = symptoms considered by the investigator to have a causal relationship to vaccination. Grade 3 symptoms = symptoms that prevented normal activity. Grade 3 Irritability/Fussiness = Crying that could not be comforted/prevented normal activity. Grade 3 loss of appetite = did not eat at all. Grade 3 temperature = axillary temperature &gt; 39.0°C.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting AEs With Medically Attended Visits (MAV)</measure>
+    <time_frame>During the entire study period (Day 0 - Day 179)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>MAVs were defined as an AEs with a medically-attended visits i.e. prompting emergency room (ER) visits, hospitalizations or physician visits and that were not routine visits for physical examination or vaccination. Any MAV was defined as at least one MAV experienced. Grade 3 was a MAV that prevented normal activities and related was defined as a MAV assessed by the investigator to be causally related to the study vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Potential Immune-Mediated Diseases (pIMDs)</measure>
+    <time_frame>During the entire study period (Days 0 - 179)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>pIMDs were defined as a subset of AEs that included autoimmune diseases and other inflammatory and/or neurologic disorders of interest which may or may not have had an autoimmune aetiology.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any, Grade 3 and Related Unsolicited AEs.</measure>
+    <time_frame>Within 28 days (Days 0-27) after first vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Unsolicited AE covers any AE reported in addition to those solicited during the clinical study and any solicited symptom with onset outside the specified period of follow-up for solicited symptoms. Any was defined as occurrence of any unsolicited symptom regardless of intensity grade or relation to vaccination. Grade 3 was an event that prevented normal activities and related was defined as an unsolicited AE assessed by the investigator to be causally related to the study vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Reporting Any and Related Serious Adverse Events (SAEs)</measure>
+    <time_frame>During the entire study period (Day 0 - Day 179)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A serious adverse event was any untoward medical occurrence that: resulted in death, was life-threatening, required hospitalization or prolongation of existing hospitalization, resulted in disability/incapacity or was a congenital anomaly/birth defect in the offspring of a study subject. Any was defined as occurrence of any symptom regardless of intensity grade or relation to vaccination and related was an event assessed by the investigator as causally related to the study vaccination.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">470</enrollment>
+  <condition>Influenza</condition>
+  <arm_group>
+    <arm_group_label>Fluarix Quadrivalent Primed Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fluarix Quadrivalent Unprimed Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Fluarix Quadrivalent</intervention_name>
+    <description>1 or 2 doses administered intramuscularly (IM) in deltoid region depending on the priming status</description>
+    <arm_group_label>Fluarix Quadrivalent Primed Group</arm_group_label>
+    <arm_group_label>Fluarix Quadrivalent Unprimed Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects who the investigator believes that parent(s)/LAR(s) can and will comply with
+             the requirements of the protocol.
+
+          -  Children, male or female who received a 2-dose vaccination in the study 115345
+             (NCT01439360).
+
+          -  Written informed consent obtained from the parent(s)/LAR(s) of the subject.
+
+          -  Subjects in stable health as determined by medical history and clinical examination
+             before entering into the study.
+
+        Exclusion Criteria:
+
+          -  Child in care.
+
+          -  Use of any investigational or non-registered product (drug or vaccine) other than the
+             study vaccines within 30 days preceding the first dose of study vaccine, or planned
+             use during the study period.
+
+          -  Since the start of study 115345 (NCT01439360), receipt of any seasonal influenza
+             vaccine other than the study vaccines of study 115345 or planned administration of
+             any influenza vaccine other than the study vaccine during the study.
+
+          -  Administration of any vaccine not foreseen by the study protocol within 4 weeks
+             preceding the first dose of study vaccine or planned use until Visit 2.
+
+          -  Laboratory confirmed influenza infection outside of the 115345 (NCT01439360) study.
+
+          -  Any confirmed or suspected immunosuppressive or immunodeficient condition, based on
+             medical history and physical examination.
+
+          -  Chronic administration (defined as more than 14 days) of immunosuppressants or other
+             immune-modifying drugs within 6 months prior to enrolment in the study or planned
+             administration during the study period. Inhaled and topical steroids are allowed.
+
+          -  Administration of immunoglobulins and/ or any blood products within 3 months
+             preceding the first dose of study vaccine or planned administration during the study
+             period.
+
+          -  History of any reaction or hypersensitivity likely to be exacerbated by any component
+             of the vaccine.
+
+          -  Any contraindication to intramuscular injection.
+
+          -  Acute disease and/or fever at the time of enrollment:
+
+               -  Fever is defined as temperature ≥ 37.5°C by any route.
+
+               -  Subjects with a minor illness (such as mild diarrhoea, mild upper respiratory
+                  infection) without fever may be enrolled at the discretion of the investigator.
+
+          -  Any other condition which, in the opinion of the Investigator, prevents the subject
+             from participating in the study.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>17 Months</minimum_age>
+    <maximum_age>48 Months</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Decin</city>
+        <zip>405 01</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Jindrichuv Hradec</city>
+        <zip>37701</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Lipnik nad Becvou</city>
+        <zip>75131</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Nachod</city>
+        <zip>547 01</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Odolena voda</city>
+        <zip>25070</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ostrava - Poruba</city>
+        <zip>70800</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pardubice</city>
+        <zip>532 03</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Praha 6</city>
+        <zip>1600</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tabor</city>
+        <zip>390 02</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Debica</city>
+        <zip>39-200</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Katowice</city>
+        <zip>40-018</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Siemianowice Slaskie</city>
+        <zip>41-103</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Antequera/Málaga</city>
+        <zip>29200</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Blanes (Girona)</city>
+        <zip>17300</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Castellón</city>
+        <zip>12004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Castellón</city>
+        <zip>12530</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Centelles (Barcelona)</city>
+        <zip>08540</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Paiporta, Valencia</city>
+        <zip>46200</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Quart de Poblet, Valencia</city>
+        <zip>46930</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46011</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46024</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St Austell</city>
+        <state>Cornwall</state>
+        <zip>PL26 7RL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Coventry</city>
+        <state>Warwickshire</state>
+        <zip>CV6 4DD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Belfast</city>
+        <zip>BT7 2EB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS2 8AE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Exeter</city>
+        <zip>EX2 5DW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gloucester</city>
+        <zip>GL1 3NN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>London</city>
+        <zip>SW17 0QT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Czech Republic</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 5, 2015</lastchanged_date>
+  <firstreceived_date>October 4, 2012</firstreceived_date>
+  <firstreceived_results_date>June 5, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>GSK Biologicals quadrivalent influenza vaccine</keyword>
+  <keyword>Influenza</keyword>
+  <keyword>Children</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Immunogenicity</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Fluarix Quadrivalent Primed Group</title>
+          <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+        </group>
+        <group group_id="P2">
+          <title>Fluarix Quadrivalent Unprimed Group</title>
+          <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="241"/>
+                <participants group_id="P2" count="229"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="238"/>
+                <participants group_id="P2" count="221"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Consent withdrawal</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Migrated/moved from study area</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Fluarix Quadrivalent Primed Group</title>
+          <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+        </group>
+        <group group_id="B2">
+          <title>Fluarix Quadrivalent Unprimed Group</title>
+          <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="241"/>
+                <measurement group_id="B2" value="229"/>
+                <measurement group_id="B3" value="470"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="33.2" spread="7.54"/>
+                <measurement group_id="B2" value="32.5" spread="7.39"/>
+                <measurement group_id="B3" value="32.8" spread="7.47"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>Subjects</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="114"/>
+                <measurement group_id="B2" value="96"/>
+                <measurement group_id="B3" value="210"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="127"/>
+                <measurement group_id="B2" value="133"/>
+                <measurement group_id="B3" value="260"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Serum Hemagglutination Inhibition (HI) Antibody Titers Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</title>
+        <description>Antibody titers were expressed as Geometric Mean Titers (GMTs). The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 0 and Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="224"/>
+                  <measurement group_id="O2" value="209"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Serum Hemagglutination Inhibition (HI) Antibody Titers Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</title>
+            <description>Antibody titers were expressed as Geometric Mean Titers (GMTs). The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Titer</units>
+            <param>Geometric Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <sub_title>H1N1, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="43.1" lower_limit="33.8" upper_limit="54.9"/>
+                  <measurement group_id="O2" value="14.5" lower_limit="11.5" upper_limit="18.2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="445.6" lower_limit="376.9" upper_limit="526.7"/>
+                  <measurement group_id="O2" value="45.8" lower_limit="32.0" upper_limit="65.5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="12.3" lower_limit="10.7" upper_limit="14.1"/>
+                  <measurement group_id="O2" value="16.4" lower_limit="13.2" upper_limit="20.4"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="135.3" lower_limit="113.6" upper_limit="161.2"/>
+                  <measurement group_id="O2" value="47.5" lower_limit="32.6" upper_limit="69.3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="28.5" lower_limit="23.8" upper_limit="34.1"/>
+                  <measurement group_id="O2" value="10.0" lower_limit="8.4" upper_limit="11.9"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="193.9" lower_limit="168.7" upper_limit="222.8"/>
+                  <measurement group_id="O2" value="47.1" lower_limit="35.2" upper_limit="63.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="11.9" lower_limit="10.6" upper_limit="13.3"/>
+                  <measurement group_id="O2" value="6.5" lower_limit="5.9" upper_limit="7.2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="182.6" lower_limit="159.0" upper_limit="209.6"/>
+                  <measurement group_id="O2" value="26.1" lower_limit="20.9" upper_limit="32.7"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Seropositive Subjects Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</title>
+        <description>Seropositivity was defined as number of subjects with antibody titers greater than or equal to (≥) 1:10. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 0 and Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="224"/>
+                  <measurement group_id="O2" value="209"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Seropositive Subjects Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</title>
+            <description>Seropositivity was defined as number of subjects with antibody titers greater than or equal to (≥) 1:10. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>H1N1, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="189"/>
+                  <measurement group_id="O2" value="64"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="220"/>
+                  <measurement group_id="O2" value="137"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="131"/>
+                  <measurement group_id="O2" value="79"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="218"/>
+                  <measurement group_id="O2" value="99"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="187"/>
+                  <measurement group_id="O2" value="58"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="224"/>
+                  <measurement group_id="O2" value="174"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="134"/>
+                  <measurement group_id="O2" value="36"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="222"/>
+                  <measurement group_id="O2" value="144"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects With HI Antibody Titers Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</title>
+        <description>The cut-off values assessed were less than (&lt;) 1:10, 1:10 to &lt; 1:40 and ≥ 1:40. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 0 and Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="224"/>
+                  <measurement group_id="O2" value="209"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects With HI Antibody Titers Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</title>
+            <description>The cut-off values assessed were less than (&lt;) 1:10, 1:10 to &lt; 1:40 and ≥ 1:40. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>H1N1 (&lt;1:10), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="32"/>
+                  <measurement group_id="O2" value="138"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1 (&lt;1:10), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="4"/>
+                  <measurement group_id="O2" value="72"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 (&lt;1:10), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="90"/>
+                  <measurement group_id="O2" value="123"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 (&lt;1:10), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6"/>
+                  <measurement group_id="O2" value="110"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria (&lt;1:10), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="34"/>
+                  <measurement group_id="O2" value="144"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria (&lt;1:10), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="35"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata (&lt;1:10), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="87"/>
+                  <measurement group_id="O2" value="166"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata (&lt;1:10), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                  <measurement group_id="O2" value="65"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1 (1:10 to &lt;1:40), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="100"/>
+                  <measurement group_id="O2" value="3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1 (1:10 to &lt;1:40), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                  <measurement group_id="O2" value="65"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 (1:10 to &lt;1:40), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="94"/>
+                  <measurement group_id="O2" value="5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 (1:10 to &lt;1:40), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="25"/>
+                  <measurement group_id="O2" value="18"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria (1:10 to &lt;1:40), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="115"/>
+                  <measurement group_id="O2" value="19"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria (1:10 to &lt;1:40), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="7"/>
+                  <measurement group_id="O2" value="90"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata (1:10 to &lt;1:40), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="107"/>
+                  <measurement group_id="O2" value="24"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata (1:10 to &lt;1:40), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6"/>
+                  <measurement group_id="O2" value="61"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1 (≥1: 40), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="89"/>
+                  <measurement group_id="O2" value="61"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1 (≥1: 40), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="217"/>
+                  <measurement group_id="O2" value="72"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 (≥1: 40), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="37"/>
+                  <measurement group_id="O2" value="74"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 (≥1: 40), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="193"/>
+                  <measurement group_id="O2" value="81"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria (≥1: 40), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="72"/>
+                  <measurement group_id="O2" value="39"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria (≥1: 40), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="217"/>
+                  <measurement group_id="O2" value="84"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata (≥1: 40), Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="27"/>
+                  <measurement group_id="O2" value="12"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata (≥1: 40), Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="216"/>
+                  <measurement group_id="O2" value="83"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum Neutralising Antibody Titers Against Each of the Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</title>
+        <description>Antibody titers were expressed as Geometric mean titers (GMTs). The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 0 and Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="107"/>
+                  <measurement group_id="O2" value="109"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Serum Neutralising Antibody Titers Against Each of the Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</title>
+            <description>Antibody titers were expressed as Geometric mean titers (GMTs). The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Titer</units>
+            <param>Geometric Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <sub_title>H1N1, Day 0 [N=97,90]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="138.2" lower_limit="97.4" upper_limit="196.2"/>
+                  <measurement group_id="O2" value="48.3" lower_limit="33.9" upper_limit="68.7"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1, Day 7 [N=107, 96]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1500.9" lower_limit="1172.7" upper_limit="1920.9"/>
+                  <measurement group_id="O2" value="139.4" lower_limit="78.8" upper_limit="246.8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 0 [N=99,96]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="66.5" lower_limit="55.9" upper_limit="79.2"/>
+                  <measurement group_id="O2" value="82.8" lower_limit="60.6" upper_limit="113.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 7 [N=104,100]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="422.9" lower_limit="342.3" upper_limit="522.4"/>
+                  <measurement group_id="O2" value="325.1" lower_limit="187.1" upper_limit="564.7"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 0 [N=107,109]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="38.6" lower_limit="29.7" upper_limit="50.3"/>
+                  <measurement group_id="O2" value="22.2" lower_limit="18.6" upper_limit="26.5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 7 [N=107, 108]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="193.7" lower_limit="154.7" upper_limit="242.6"/>
+                  <measurement group_id="O2" value="47.0" lower_limit="30.3" upper_limit="72.9"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 0 [N=107,107]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="36.9" lower_limit="34.2" upper_limit="39.8"/>
+                  <measurement group_id="O2" value="30.8" lower_limit="29.0" upper_limit="32.6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 7 [N=107,107]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="182.7" lower_limit="157.7" upper_limit="211.8"/>
+                  <measurement group_id="O2" value="51.7" lower_limit="42.2" upper_limit="63.4"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum Anti-neuraminidase Antibody Titers Against Each of the Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</title>
+        <description>Antibody titers were expressed as GMTs. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 0 and Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="107"/>
+                  <measurement group_id="O2" value="109"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Serum Anti-neuraminidase Antibody Titers Against Each of the Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine</title>
+            <description>Antibody titers were expressed as GMTs. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Titer</units>
+            <param>Geometric Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <sub_title>H1N1, Day 0 [N=106,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="34.6" lower_limit="25.3" upper_limit="47.3"/>
+                  <measurement group_id="O2" value="24.1" lower_limit="18.6" upper_limit="31.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1, Day 7 [N=106, 109]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="293.9" lower_limit="247.2" upper_limit="349.3"/>
+                  <measurement group_id="O2" value="41.3" lower_limit="28.9" upper_limit="59.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 0 [N=107,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="38.4" lower_limit="33.7" upper_limit="43.7"/>
+                  <measurement group_id="O2" value="58.8" lower_limit="47.2" upper_limit="73.4"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 7 [N=107, 109]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="189.4" lower_limit="155.9" upper_limit="230.2"/>
+                  <measurement group_id="O2" value="114.2" lower_limit="84.1" upper_limit="155.2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 0 [N=106,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="17.4" lower_limit="14.2" upper_limit="21.3"/>
+                  <measurement group_id="O2" value="14.3" lower_limit="12.4" upper_limit="16.5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 7 [N=106,109]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="90.6" lower_limit="74.1" upper_limit="110.8"/>
+                  <measurement group_id="O2" value="27.6" lower_limit="19.4" upper_limit="39.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 0 [N=106, 106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="25.3" lower_limit="21.6" upper_limit="29.6"/>
+                  <measurement group_id="O2" value="15.4" lower_limit="13.2" upper_limit="18.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 7 [N=106,109]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="222.0" lower_limit="185.7" upper_limit="265.4"/>
+                  <measurement group_id="O2" value="40.6" lower_limit="29.5" upper_limit="55.7"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Vaccine Response Rate (VRR) for Neutralising Antibody Titers Against Each of the Four Vaccine Strains.</title>
+        <description>VRR was defined as the number of vaccinees who had either a pre-vaccination titer &lt;cut-off and a post-vaccination titer ≥ 4-fold of half of the cut-off or a pre-vaccination titer ≥cut-off and at least a 4-fold increase in post-vaccination titers. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 7 post dose 1</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="107"/>
+                  <measurement group_id="O2" value="108"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Vaccine Response Rate (VRR) for Neutralising Antibody Titers Against Each of the Four Vaccine Strains.</title>
+            <description>VRR was defined as the number of vaccinees who had either a pre-vaccination titer &lt;cut-off and a post-vaccination titer ≥ 4-fold of half of the cut-off or a pre-vaccination titer ≥cut-off and at least a 4-fold increase in post-vaccination titers. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>H1N1 [N=97,89]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="74"/>
+                  <measurement group_id="O2" value="36"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 [N=97,94]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="72"/>
+                  <measurement group_id="O2" value="48"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria [N=107,108]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="78"/>
+                  <measurement group_id="O2" value="24"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata [N=107,105]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="45"/>
+                  <measurement group_id="O2" value="15"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>MGI for Neutralising Antibodies Titres Against Each of the Four Vaccine Strains.</title>
+        <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0.</description>
+        <time_frame>At Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="107"/>
+                  <measurement group_id="O2" value="108"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>MGI for Neutralising Antibodies Titres Against Each of the Four Vaccine Strains.</title>
+            <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0.</description>
+            <units>Fold increase</units>
+            <param>Geometric Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <sub_title>H1N1 [N=97, 89]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="10.6" lower_limit="8.2" upper_limit="13.7"/>
+                  <measurement group_id="O2" value="3.1" lower_limit="2.3" upper_limit="4.2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 [N=97, 94]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6.4" lower_limit="5.4" upper_limit="7.6"/>
+                  <measurement group_id="O2" value="4.5" lower_limit="3.2" upper_limit="6.2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria [N=107,108]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5.0" lower_limit="4.3" upper_limit="5.8"/>
+                  <measurement group_id="O2" value="2.1" lower_limit="1.6" upper_limit="2.8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata [N=107,105]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5.0" lower_limit="4.3" upper_limit="5.7"/>
+                  <measurement group_id="O2" value="1.7" lower_limit="1.4" upper_limit="2.0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>VRR for Anti-neuraminidase Antibody Titers Against Each of the Four Vaccine Strains.</title>
+        <description>VRR was defined as the number of vaccinees who had either a pre-vaccination titer &lt;cut-off and a post-vaccination titer ≥ 4-fold of half of the cut-off or a pre-vaccination titer ≥cut-off and at least a 4-fold increase in post-vaccination titers. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 7 post dose 1</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="107"/>
+                  <measurement group_id="O2" value="106"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>VRR for Anti-neuraminidase Antibody Titers Against Each of the Four Vaccine Strains.</title>
+            <description>VRR was defined as the number of vaccinees who had either a pre-vaccination titer &lt;cut-off and a post-vaccination titer ≥ 4-fold of half of the cut-off or a pre-vaccination titer ≥cut-off and at least a 4-fold increase in post-vaccination titers. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>H1N1 [N=105,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="75"/>
+                  <measurement group_id="O2" value="31"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 [N=107,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="75"/>
+                  <measurement group_id="O2" value="31"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria [N=105,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="79"/>
+                  <measurement group_id="O2" value="24"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata [N=105,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="90"/>
+                  <measurement group_id="O2" value="29"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>MGI for Anti-neuraminidase Antibodies Titers Against Each of the Four Vaccine Strains.</title>
+        <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 7 post dose 1</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="107"/>
+                  <measurement group_id="O2" value="106"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>MGI for Anti-neuraminidase Antibodies Titers Against Each of the Four Vaccine Strains.</title>
+            <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Fold increase</units>
+            <param>Geometric Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <sub_title>H1N1 [N=105,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="8.3" lower_limit="6.5" upper_limit="10.7"/>
+                  <measurement group_id="O2" value="1.8" lower_limit="1.5" upper_limit="2.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2 [N=105,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5.2" lower_limit="4.4" upper_limit="6.0"/>
+                  <measurement group_id="O2" value="1.9" lower_limit="1.5" upper_limit="2.4"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria [N=105,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="8.8" lower_limit="7.5" upper_limit="10.2"/>
+                  <measurement group_id="O2" value="2.7" lower_limit="2.1" upper_limit="3.4"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata [N=107,106]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="4.9" lower_limit="4.2" upper_limit="5.8"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.7" upper_limit="2.3"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects Seroconverted for HI Antibodies Against Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</title>
+        <description>A seroconverted subject was defined as a subject who had either a pre-vaccination titer below 1:10 and a post-vaccination titer ≥ 1:40 or a pre-vaccination titer ≥ 1:10 and at least a 4-fold increase in post-vaccination titer. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="221"/>
+                  <measurement group_id="O2" value="202"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Seroconverted for HI Antibodies Against Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</title>
+            <description>A seroconverted subject was defined as a subject who had either a pre-vaccination titer below 1:10 and a post-vaccination titer ≥ 1:40 or a pre-vaccination titer ≥ 1:10 and at least a 4-fold increase in post-vaccination titer. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>H1N1</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="170"/>
+                  <measurement group_id="O2" value="65"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="180"/>
+                  <measurement group_id="O2" value="73"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="169"/>
+                  <measurement group_id="O2" value="78"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="208"/>
+                  <measurement group_id="O2" value="77"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Mean Geometric Increase (MGI) for HI Antibody Titer Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</title>
+        <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="221"/>
+                  <measurement group_id="O2" value="202"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Mean Geometric Increase (MGI) for HI Antibody Titer Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</title>
+            <description>MGI was defined as the fold increase in serum HI GMT post-vaccination compared to Day 0. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Fold increase</units>
+            <param>Geometric Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <sub_title>H1N1</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="10.3" lower_limit="8.5" upper_limit="12.4"/>
+                  <measurement group_id="O2" value="3.2" lower_limit="2.6" upper_limit="3.9"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="10.9" lower_limit="9.4" upper_limit="12.6"/>
+                  <measurement group_id="O2" value="2.9" lower_limit="2.4" upper_limit="3.6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6.7" lower_limit="5.9" upper_limit="7.6"/>
+                  <measurement group_id="O2" value="4.6" lower_limit="3.8" upper_limit="5.5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="15.2" lower_limit="13.3" upper_limit="17.3"/>
+                  <measurement group_id="O2" value="4.0" lower_limit="3.3" upper_limit="4.9"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects Seroprotected for Anti-HA Antibodies Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</title>
+        <description>Seroprotection rate SPR was defined as the number of vaccinees with serum haemagglutination inhibition (HI) titer ≥ 1:40 that usually is accepted as indicating protection in adults. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+        <time_frame>At Day 0 and Day 7</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on According-to-Protocol (ATP) cohort for immunogenicity which included all evaluable subjects who received study vaccine according to their treatment assignment, for whom assay results for antibodies against at least 1 study vaccine strain after vaccination and data concerning immunogenicity outcome measures were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="224"/>
+                  <measurement group_id="O2" value="209"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Seroprotected for Anti-HA Antibodies Against Each of the Four Vaccine Strains After 1 Dose of Fluarix Quadrivalent Vaccine.</title>
+            <description>Seroprotection rate SPR was defined as the number of vaccinees with serum haemagglutination inhibition (HI) titer ≥ 1:40 that usually is accepted as indicating protection in adults. The vaccine strains included A/Christchurch/16/2010 ( H1N1), A/Victoria/361/2011 (H3N2), B/Brisbane/60/2008 (Victoria) and B/Hubei-Wujiagang/158/2009 (Yamagata) antigens.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>H1N1, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="89"/>
+                  <measurement group_id="O2" value="61"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H1N1, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="217"/>
+                  <measurement group_id="O2" value="72"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="37"/>
+                  <measurement group_id="O2" value="74"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>H3N2, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="193"/>
+                  <measurement group_id="O2" value="81"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="72"/>
+                  <measurement group_id="O2" value="39"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Victoria, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="217"/>
+                  <measurement group_id="O2" value="84"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 0 [N=221,202]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="27"/>
+                  <measurement group_id="O2" value="12"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Yamagata, Day 7 [N=224,209]</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="216"/>
+                  <measurement group_id="O2" value="83"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any and Grade 3 Solicited Local Adverse Events (AEs)</title>
+        <description>Solicited local AEs assessed were pain, redness and swelling. Any = any solicited local AE reported irrespective of intensity grade. Grade 3 pain = cried when limb was moved/spontaneously painful. Grade 3 redness and swelling was defined as redness/swelling above 50 millimeter (mm).</description>
+        <time_frame>During a 7-day (Day 0 to 6) follow-up period after first vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on the Total Vaccinated cohort included all subjects with at least one vaccine administration documented and symptom sheet completed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="239"/>
+                  <measurement group_id="O2" value="228"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any and Grade 3 Solicited Local Adverse Events (AEs)</title>
+            <description>Solicited local AEs assessed were pain, redness and swelling. Any = any solicited local AE reported irrespective of intensity grade. Grade 3 pain = cried when limb was moved/spontaneously painful. Grade 3 redness and swelling was defined as redness/swelling above 50 millimeter (mm).</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any Pain</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="96"/>
+                  <measurement group_id="O2" value="61"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 Pain</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any Redness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="82"/>
+                  <measurement group_id="O2" value="48"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 Redness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any Swelling</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="49"/>
+                  <measurement group_id="O2" value="25"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 Swelling</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Solicted Symptoms</title>
+        <description>Duration was defined as number of days with any grade of solicted local and/or general symptoms</description>
+        <time_frame>During the 7-day (Days 0-6) post-vaccination Dose 1 period</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on the Total Vaccinated cohort included all subjects with at least one vaccine administration documented and symptom sheet completed only on subjects that reported the specific symptom.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>SuSubjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="96"/>
+                  <measurement group_id="O2" value="61"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Duration of Solicted Symptoms</title>
+            <description>Duration was defined as number of days with any grade of solicted local and/or general symptoms</description>
+            <units>Days</units>
+            <param>Median</param>
+            <dispersion>Full Range</dispersion>
+            <category_list>
+              <category>
+                <sub_title>Drowsiness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="4.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Irritability/fussiness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Loss of appetite</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.0" upper_limit="5.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Pain</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.0" lower_limit="1.0" upper_limit="5.0"/>
+                  <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="5.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Redness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.0" lower_limit="1.0" upper_limit="7.0"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.0" upper_limit="6.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Swelling</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.0" lower_limit="1.0" upper_limit="5.0"/>
+                  <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="5.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Temperature</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.0" lower_limit="1.0" upper_limit="5.0"/>
+                  <measurement group_id="O2" value="2.0" lower_limit="1.0" upper_limit="6.0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any, Grade 3 and Related Solicited General Symptoms.</title>
+        <description>Solicited general symptoms assessed were drowsiness, Irritability/Fussiness, loss of appetite and Temperature. Any Temperature = axillary temperature ≥37.5 degrees Celsius (°C). Any = any solicited general symptom reported irrespective of intensity and relationship to vaccination. Related = symptoms considered by the investigator to have a causal relationship to vaccination. Grade 3 symptoms = symptoms that prevented normal activity. Grade 3 Irritability/Fussiness = Crying that could not be comforted/prevented normal activity. Grade 3 loss of appetite = did not eat at all. Grade 3 temperature = axillary temperature &gt; 39.0°C.</description>
+        <time_frame>During the 7 days (Days 0 – 6) post dose 1 vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on the Total Vaccinated cohort included all subjects with at least one vaccine administration documented and symptom sheet completed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="238"/>
+                  <measurement group_id="O2" value="224"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any, Grade 3 and Related Solicited General Symptoms.</title>
+            <description>Solicited general symptoms assessed were drowsiness, Irritability/Fussiness, loss of appetite and Temperature. Any Temperature = axillary temperature ≥37.5 degrees Celsius (°C). Any = any solicited general symptom reported irrespective of intensity and relationship to vaccination. Related = symptoms considered by the investigator to have a causal relationship to vaccination. Grade 3 symptoms = symptoms that prevented normal activity. Grade 3 Irritability/Fussiness = Crying that could not be comforted/prevented normal activity. Grade 3 loss of appetite = did not eat at all. Grade 3 temperature = axillary temperature &gt; 39.0°C.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any Drowsiness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="54"/>
+                  <measurement group_id="O2" value="44"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 Drowsiness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related Drowsiness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="36"/>
+                  <measurement group_id="O2" value="28"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any Irritability/Fussiness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="77"/>
+                  <measurement group_id="O2" value="59"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 Irritability/Fussiness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5"/>
+                  <measurement group_id="O2" value="5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related Irritability/Fussiness</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="51"/>
+                  <measurement group_id="O2" value="43"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any Loss of appetite</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="51"/>
+                  <measurement group_id="O2" value="46"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 Loss of appetite</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="8"/>
+                  <measurement group_id="O2" value="5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related Loss of appetite</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="31"/>
+                  <measurement group_id="O2" value="31"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Any Temperature</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="13"/>
+                  <measurement group_id="O2" value="26"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 Temperature</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related Temperature</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6"/>
+                  <measurement group_id="O2" value="15"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting AEs With Medically Attended Visits (MAV)</title>
+        <description>MAVs were defined as an AEs with a medically-attended visits i.e. prompting emergency room (ER) visits, hospitalizations or physician visits and that were not routine visits for physical examination or vaccination. Any MAV was defined as at least one MAV experienced. Grade 3 was a MAV that prevented normal activities and related was defined as a MAV assessed by the investigator to be causally related to the study vaccination.</description>
+        <time_frame>During the entire study period (Day 0 – Day 179)</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on the Total Vaccinated cohort included all subjects with at least one vaccine administration documented.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="241"/>
+                  <measurement group_id="O2" value="229"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting AEs With Medically Attended Visits (MAV)</title>
+            <description>MAVs were defined as an AEs with a medically-attended visits i.e. prompting emergency room (ER) visits, hospitalizations or physician visits and that were not routine visits for physical examination or vaccination. Any MAV was defined as at least one MAV experienced. Grade 3 was a MAV that prevented normal activities and related was defined as a MAV assessed by the investigator to be causally related to the study vaccination.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any MAV</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="149"/>
+                  <measurement group_id="O2" value="130"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 MAV</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5"/>
+                  <measurement group_id="O2" value="8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related MAV</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Potential Immune-Mediated Diseases (pIMDs)</title>
+        <description>pIMDs were defined as a subset of AEs that included autoimmune diseases and other inflammatory and/or neurologic disorders of interest which may or may not have had an autoimmune aetiology.</description>
+        <time_frame>During the entire study period (Days 0 - 179)</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on the Total Vaccinated cohort included all subjects with at least one vaccine administration documented.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="241"/>
+                  <measurement group_id="O2" value="229"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Potential Immune-Mediated Diseases (pIMDs)</title>
+            <description>pIMDs were defined as a subset of AEs that included autoimmune diseases and other inflammatory and/or neurologic disorders of interest which may or may not have had an autoimmune aetiology.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any, Grade 3 and Related Unsolicited AEs.</title>
+        <description>Unsolicited AE covers any AE reported in addition to those solicited during the clinical study and any solicited symptom with onset outside the specified period of follow-up for solicited symptoms. Any was defined as occurrence of any unsolicited symptom regardless of intensity grade or relation to vaccination. Grade 3 was an event that prevented normal activities and related was defined as an unsolicited AE assessed by the investigator to be causally related to the study vaccination.</description>
+        <time_frame>Within 28 days (Days 0-27) after first vaccination</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on the Total Vaccinated cohort included all subjects with at least one vaccine administration documented.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="241"/>
+                  <measurement group_id="O2" value="229"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any, Grade 3 and Related Unsolicited AEs.</title>
+            <description>Unsolicited AE covers any AE reported in addition to those solicited during the clinical study and any solicited symptom with onset outside the specified period of follow-up for solicited symptoms. Any was defined as occurrence of any unsolicited symptom regardless of intensity grade or relation to vaccination. Grade 3 was an event that prevented normal activities and related was defined as an unsolicited AE assessed by the investigator to be causally related to the study vaccination.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any Unsolicted AEs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="66"/>
+                  <measurement group_id="O2" value="66"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Grade 3 Unsolicted AEs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6"/>
+                  <measurement group_id="O2" value="7"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related Unsolicted AEs</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5"/>
+                  <measurement group_id="O2" value="3"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Reporting Any and Related Serious Adverse Events (SAEs)</title>
+        <description>A serious adverse event was any untoward medical occurrence that: resulted in death, was life-threatening, required hospitalization or prolongation of existing hospitalization, resulted in disability/incapacity or was a congenital anomaly/birth defect in the offspring of a study subject. Any was defined as occurrence of any symptom regardless of intensity grade or relation to vaccination and related was an event assessed by the investigator as causally related to the study vaccination.</description>
+        <time_frame>During the entire study period (Day 0 – Day 179)</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Analysis was performed on the Total Vaccinated cohort included all subjects with at least one vaccine administration documented.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluarix Quadrivalent Primed Group</title>
+            <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Fluarix Quadrivalent Unprimed Group</title>
+            <description>SuSubjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="241"/>
+                  <measurement group_id="O2" value="229"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Subjects Reporting Any and Related Serious Adverse Events (SAEs)</title>
+            <description>A serious adverse event was any untoward medical occurrence that: resulted in death, was life-threatening, required hospitalization or prolongation of existing hospitalization, resulted in disability/incapacity or was a congenital anomaly/birth defect in the offspring of a study subject. Any was defined as occurrence of any symptom regardless of intensity grade or relation to vaccination and related was an event assessed by the investigator as causally related to the study vaccination.</description>
+            <units>Subjects</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Any SAE(s)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="7"/>
+                  <measurement group_id="O2" value="8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Related SAE(s)</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Serious Adverse Events: From Day 0 to Day 179; Solicited local and general symptoms: During the 7-day (Days 0-6) post-vaccination period; Unsolicited symptoms: During the 28-day (Day 0-27) post-vaccination period.</time_frame>
+      <desc>For the frequent adverse events, the number of participants at risk included those from Total Vaccinated cohort who had the symptom sheet completed.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Fluarix Quadrivalent Primed Group</title>
+          <description>Subjects in this group were previously primed with 2 doses of Fluarix Quadrivalent vaccine in the primary study 115345 (NCT01439360) and received 1 dose of Fluarix Quadrivalent vaccine at Day 0 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+        </group>
+        <group group_id="E2">
+          <title>Fluarix Quadrivalent Unprimed Group</title>
+          <description>Subjects in this group were unprimed in the primary study 115345 (NCT01439360) and received 2 doses of Fluarix Quadrivalent vaccine at Days 0 and 28 in the current study. The vaccine was administered intramuscularly in the deltoid region of arm.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Inguinal hernia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Bronchiolitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Bronchopneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Laryngitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Lymphadenitis bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Otitis media</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Otitis media acute</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Pharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Thermal burn</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adenoidal hypertrophy</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="229"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract inflammation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urticaria</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="96" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="61" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="96" subjects_at_risk="239"/>
+                <counts group_id="E2" subjects_affected="61" subjects_at_risk="228"/>
+              </event>
+              <event>
+                <sub_title>Redness</sub_title>
+                <counts group_id="E1" subjects_affected="82" subjects_at_risk="239"/>
+                <counts group_id="E2" subjects_affected="48" subjects_at_risk="228"/>
+              </event>
+              <event>
+                <sub_title>Swelling</sub_title>
+                <counts group_id="E1" subjects_affected="49" subjects_at_risk="239"/>
+                <counts group_id="E2" subjects_affected="25" subjects_at_risk="228"/>
+              </event>
+              <event>
+                <sub_title>Drowsiness</sub_title>
+                <counts group_id="E1" subjects_affected="54" subjects_at_risk="238"/>
+                <counts group_id="E2" subjects_affected="44" subjects_at_risk="224"/>
+              </event>
+              <event>
+                <sub_title>Irritability/Fussiness</sub_title>
+                <counts group_id="E1" subjects_affected="77" subjects_at_risk="238"/>
+                <counts group_id="E2" subjects_affected="59" subjects_at_risk="224"/>
+              </event>
+              <event>
+                <sub_title>Loss of Appetite</sub_title>
+                <counts group_id="E1" subjects_affected="51" subjects_at_risk="238"/>
+                <counts group_id="E2" subjects_affected="46" subjects_at_risk="224"/>
+              </event>
+              <event>
+                <sub_title>Temperature</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="238"/>
+                <counts group_id="E2" subjects_affected="26" subjects_at_risk="224"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <assessment>Non-systematic Assessment</assessment>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="241"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="229"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>GSK Response Center</name_or_title>
+      <organization>GlaxoSmithKline</organization>
+      <phone>866-435-7343</phone>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

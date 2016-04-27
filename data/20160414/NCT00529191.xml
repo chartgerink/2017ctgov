@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="11968">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00529191</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2006-5-4824</org_study_id>
+    <secondary_id>RO1 FD03340</secondary_id>
+    <nct_id>NCT00529191</nct_id>
+  </id_info>
+  <brief_title>Atorvastatin in New Onset Type 1 Diabetes Mellitus (T1DM)</brief_title>
+  <acronym>TIDM</acronym>
+  <official_title>Phase II, Double Blind, Randomized, Placebo-controlled Trial to Evaluate the Safety and Efficacy of Atorvastatin in Subjects With Newly Diagnosed Type 1 Diabetes Mellitus.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital of Philadelphia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>FDA Office of Orphan Products Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital of Philadelphia</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this application is to evaluate the safety and efficacy of atorvastatin as a
+      potential treatment to preserve beta cell function in children and young adults with newly
+      diagnosed type 1 diabetes (T1DM).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Type 1 diabetes is an autoimmune disease that is characterized by destruction of the
+      insulin-producing beta cells of the pancreas. T1DM therapy requires insulin administration,
+      either by multiple daily injections or by insulin pump. However, in many patients, blood
+      sugar control remains suboptimal and complications develop that shorten life expectancy and
+      severely impact quality of life. At the time of diagnosis, most patients still have
+      significant residual beta cell function. Previous research has shown that weakening the
+      immune system's attack on the pancreatic beta cells may help to preserve or potentially
+      increase insulin production.
+
+      Preliminary studies have shown that members of the statin family of medications, including
+      atorvastatin (Lipitor®), preserve beta cell function in a mouse model of type 1 diabetes.
+      These finding suggest that use of atorvastatin in combination with insulin therapy may delay
+      and potentially reverse the destruction of beta cells in patients who have recently
+      developed type 1 diabetes. Atorvastatin (Lipitor®) is approved for use in adults and
+      children (&gt;10 years of age) who have elevated blood cholesterol levels. This study will
+      examine whether atorvastatin (Lipitor®) may also help the body preserve insulin production
+      in patients with newly diagnosed (within 8 weeks) type 1 diabetes.
+
+      Patients will be randomly assigned to take either atorvastatin (Lipitor®) or placebo. Two
+      out of every 3 patients will receive atorvastatin and 1 out of 3 will get placebo. As this
+      is a double-blinded study, neither the care team nor the patient will know if they are
+      actually taking atorvastatin (Lipitor®). Patients who have given consent to participate in
+      the study and pass the required screening tests will take the assigned treatment every day
+      for 12 months. All patients will begin taking 10 mg once daily, the recommended starting
+      dose. After 4 weeks, the dose will be increased to 20 mg. In addition to a high standard of
+      diabetes care and the medication, patients will have blood tests during 7 visits over an 18
+      month period.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2007</start_date>
+  <completion_date type="Actual">July 2013</completion_date>
+  <primary_completion_date type="Actual">July 2011</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>4-hour C-peptide Area Under the Curve (AUC) in Response to Mixed Meal (MMTT).</measure>
+    <time_frame>0, 30, 60, 90, 120, 150, 180, 210 and 240 minutes</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>C-peptide measurements collected over a 4 hour period (0, 30, 60, 90, 120, 150, 180, 210 and 240 minutes)after a Mixed Meal Tolerance Test. The area under the curve from these combined measurements is calculated and the unit of measure is nanogram*minutes/ml.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>•2-hour and 4-hour C-peptide AUC After MMTT. •Hemoglobin A1c •Mean Daily Insulin Dose Per kg Body Weight for 7 Days •Mean Blood Glucose (BG), Number of Preprandial BG &gt; 160 mg/dL or &lt; 70 mg/dL, and Postprandial BG &gt;200 mg/dL</measure>
+    <time_frame>baseline, 1,3,6,9,12,18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>for the C-peptide AUC measurements collected over a 2 or 4 hour period (with 30 minute intervals)after a Mixed Meal Tolerance Test. The area under the curve from these combined measurements (from 0 to 120 or 0 to 240 minutes) is calculated and the unit of measure is nanogram*minutes/ml.
+Mean daily insulin dose is calculated from a logbook maintained by the subjects for one week prior to study visits.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Atorvastatin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two out of every three patients will receive atorvastatin.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>One out of three subjects will receive a placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atorvastatin</intervention_name>
+    <description>Pill, initially at 10 mg, then after 4 weeks, 20 mg Once daily for a total of 12 months</description>
+    <arm_group_label>Atorvastatin</arm_group_label>
+    <other_name>Lipitor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>One out of three subjects will receive a placebo.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Individuals 10-19 years of age (Tanner Stage II or greater),
+
+          -  The presence of one or more serum antibodies to islet cell proteins (anti- glutamic
+             acid decarboxylase [GAD], islet antigen 2 or insulin autoantibodies) as assessed in
+             standard practice,
+
+          -  Diagnosis of T1DM within the 8 weeks prior to study entry
+
+          -  Peak stimulated C-peptide level &gt;0.2pmol/mL following mixed meal tolerance test
+             (MMTT) performed at least 3 weeks after diagnosis,
+
+          -  Females of reproductive potential must not plan on conceiving a child during the
+             treatment program, and agree to use a medically accepted form of contraception
+
+        Exclusion Criteria:
+
+          -  Subjects currently receiving cyclosporine, fibric acid derivatives, niacin (nicotinic
+             acid), erythromycin, clarythromycin, nefazodone, itraconazole, ketoconazole or
+             protease inhibitors,
+
+          -  Pregnancy or breast-feeding,
+
+          -  Clinical AIDS, AIDS related syndrome (ARS) or known positive HIV serology,
+
+          -  Subjects treated with immunosuppressive therapy in the past 12 months,
+
+          -  Subjects receiving glucocorticoid therapy or therapy other than insulin that is
+             likely to affect glucose homeostasis (such as sulfonylureas, thiazolidinediones,
+             metformin or amylin),
+
+          -  Subjects with other autoimmune diseases, except autoimmune thyroid disease,
+
+          -  Subjects with any illness that might complicate diabetes management or preclude
+             treatment with atorvastatin,
+
+          -  Transplant recipients,
+
+          -  Evidence of liver dysfunction or myopathy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>19 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven M Willi, M.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital of Philadelphia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Diabetes Center for Children &amp; Clinical Translational Research Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 7, 2015</lastchanged_date>
+  <firstreceived_date>September 13, 2007</firstreceived_date>
+  <firstreceived_results_date>December 20, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Type I Diabetes (T1DM)</keyword>
+  <keyword>Atorvastatin (Lipitor)</keyword>
+  <keyword>Insulin</keyword>
+  <keyword>Pancreas</keyword>
+  <keyword>Beta Cells</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Atorvastatin</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Patients were recruited from medical clinics at CHOP from July 2007- January 2010</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Atorvastatin</title>
+          <description>Two out of every 3 patients will receive atorvastatin in tablet form. The subject will start on 10mg of atorvastatin daily for four weeks, and then titrate up to 20mg daily. There will be 12 months of treatment followed by 6 months of a washout period.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo treated. Patients will receive tablets daily.There will be 12 months of treatment followed by 6 months of a washout period.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="27"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="24"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Atorvastatin</title>
+          <description>Two out of every 3 patients will receive atorvastatin.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo treatment</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="27"/>
+                <measurement group_id="B2" value="13"/>
+                <measurement group_id="B3" value="40"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;=18 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="26"/>
+                <measurement group_id="B2" value="12"/>
+                <measurement group_id="B3" value="38"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Between 18 and 65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="1"/>
+                <measurement group_id="B2" value="1"/>
+                <measurement group_id="B3" value="2"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>&gt;=65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="13.38" spread="1.96"/>
+                <measurement group_id="B2" value="13.30" spread="2.03"/>
+                <measurement group_id="B3" value="13.33" spread="2.055"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="11"/>
+                <measurement group_id="B2" value="9"/>
+                <measurement group_id="B3" value="20"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="16"/>
+                <measurement group_id="B2" value="4"/>
+                <measurement group_id="B3" value="20"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>United States</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="27"/>
+                <measurement group_id="B2" value="13"/>
+                <measurement group_id="B3" value="40"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>4-hour C-peptide Area Under the Curve (AUC) in Response to Mixed Meal (MMTT).</title>
+        <description>C-peptide measurements collected over a 4 hour period (0, 30, 60, 90, 120, 150, 180, 210 and 240 minutes)after a Mixed Meal Tolerance Test. The area under the curve from these combined measurements is calculated and the unit of measure is nanogram*minutes/ml.</description>
+        <time_frame>0, 30, 60, 90, 120, 150, 180, 210 and 240 minutes</time_frame>
+        <safety_issue>Yes</safety_issue>
+        <population>Participants who completed their 12 month visit were measured.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Atorvastatin</title>
+            <description>Two out of every 3 patients will receive atorvastatin.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo treatment</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="27"/>
+                  <measurement group_id="O2" value="13"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>4-hour C-peptide Area Under the Curve (AUC) in Response to Mixed Meal (MMTT).</title>
+            <description>C-peptide measurements collected over a 4 hour period (0, 30, 60, 90, 120, 150, 180, 210 and 240 minutes)after a Mixed Meal Tolerance Test. The area under the curve from these combined measurements is calculated and the unit of measure is nanogram*minutes/ml.</description>
+            <units>nanogram*minutes/ml</units>
+            <param>Median</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="248" lower_limit="-480" upper_limit="3287"/>
+                  <measurement group_id="O2" value="152" lower_limit="-195" upper_limit="798"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>•2-hour and 4-hour C-peptide AUC After MMTT. •Hemoglobin A1c •Mean Daily Insulin Dose Per kg Body Weight for 7 Days •Mean Blood Glucose (BG), Number of Preprandial BG &gt; 160 mg/dL or &lt; 70 mg/dL, and Postprandial BG &gt;200 mg/dL</title>
+        <description>for the C-peptide AUC measurements collected over a 2 or 4 hour period (with 30 minute intervals)after a Mixed Meal Tolerance Test. The area under the curve from these combined measurements (from 0 to 120 or 0 to 240 minutes) is calculated and the unit of measure is nanogram*minutes/ml.
+Mean daily insulin dose is calculated from a logbook maintained by the subjects for one week prior to study visits.</description>
+        <time_frame>baseline, 1,3,6,9,12,18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <posting_date>12/2015</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Events were reported over the one year treatment phase of the study.</time_frame>
+      <desc>Adverse events were reported or observed at interim visits, and were systematically collected.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Atorvastatin</title>
+          <description>Two out of every 3 patients will receive atorvastatin.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo treatment</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="27"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="23" subjects_at_risk="27"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycemia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="27"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <description>Reported or observed at interim visit.</description>
+                <counts group_id="E1" events="5" subjects_affected="4" subjects_at_risk="27"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="13"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <description>Reported or observed at interim visit.</description>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="27"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="13"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <description>Reported or observed at interim visit.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="27"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fever</sub_title>
+                <description>Reported or observed at interim visit.</description>
+                <counts group_id="E1" events="11" subjects_affected="8" subjects_at_risk="27"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <description>Patient report of headache at interim assessment.</description>
+                <counts group_id="E1" events="11" subjects_affected="7" subjects_at_risk="27"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nasal Congestion</sub_title>
+                <description>Reported or observed at interim visit.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="27"/>
+                <counts group_id="E2" events="4" subjects_affected="2" subjects_at_risk="13"/>
+              </event>
+              <event>
+                <sub_title>Respiratory Infection</sub_title>
+                <description>Respiratory Infection reported or observed at interim visit.</description>
+                <counts group_id="E1" events="11" subjects_affected="9" subjects_at_risk="27"/>
+                <counts group_id="E2" events="7" subjects_affected="4" subjects_at_risk="13"/>
+              </event>
+              <event>
+                <sub_title>Sore Throat</sub_title>
+                <description>Reported or observed at interim visit.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="27"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Steven Willi, MD</name_or_title>
+      <organization>Children's Hospital of Philadelphia</organization>
+      <phone>267-426-7037</phone>
+      <email>willi@chop.email.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

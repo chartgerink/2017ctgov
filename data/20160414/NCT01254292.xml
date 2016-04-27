@@ -1,0 +1,3387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4415">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01254292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13362</org_study_id>
+    <secondary_id>2010-020181-21</secondary_id>
+    <nct_id>NCT01254292</nct_id>
+  </id_info>
+  <brief_title>LCS12 vs Combined Oral Contraceptive (COC) User Satisfaction Study</brief_title>
+  <official_title>Multicenter, Randomized, Open-label, Parallel-group Study to Evaluate User Satisfaction With and Tolerability of the Low-dose Levonorgestrel (LNG) Intrauterine Delivery System (IUS) With 12 µg LNG/Day Initial in Vitro Release Rate (LCS12) in Comparison to a Combined Oral Contraceptive Containing 30 µg Ethinyl Estradiol and 3 mg Drospirenone (Yasmin®) in Young Women (18-29 Years) Over 18 Months of Use</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bayer</source>
+  <oversight_info>
+    <authority>Austria: Federal Office for Safety in Health Care</authority>
+    <authority>Belgium: Federal Agency for Medicinal Products and Health Products</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices</authority>
+    <authority>Russia: Ministry of Health of the Russian Federation</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate user satisfaction and tolerability in
+      young women (18-29 years of age) using the LCS12 compared with young women using a COC
+      (Yasmin) over a period of 18 months. Subjects in the LCS12 arm will be offered continued use
+      of LCS12 for the full, intended duration of use (up to 3 years) by continuing in a optional,
+      extension phase. Safety data only will be collected during the extension phase of the study.
+
+      Secondary objectives are to observe the tolerability, discontinuation rates, adverse event
+      profiles, occurrences of unintended pregnancies (including calculation of Pearl Index [PI]),
+      and bleeding profiles with the two birth-control methods. Additionally, data on missed
+      tablets in the combined oral contraceptive (COC) group, and intrauterine delivery system
+      (IUS) expulsions in the LCS12 group will be recorded. In the LCS12 group, physician
+      satisfaction with the IUS inserter, evaluation of the visibility and texture of the removal
+      threads, and evaluation of the visibility of the LCS12 on ultrasound (in a subset of
+      subjects) will be collected. Finally, in the COC group, information will be collected on the
+      psychosocial impact of missed or delayed pill intake.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2011</start_date>
+  <completion_date type="Actual">May 2014</completion_date>
+  <primary_completion_date type="Actual">January 2013</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Overall Satisfaction Rate at 18 Months (Last Observation Carried Forward, LOCF)</measure>
+    <time_frame>At 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting &quot;1. Very satisfied&quot; or &quot;2. Satisfied&quot; for the above question.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Satisfaction Rating by the 5-point Likert Item at 6 Months</measure>
+    <time_frame>At 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting &quot;1. Very satisfied&quot; or &quot;2. Satisfied&quot; for the above question.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Satisfaction Rating by the 5-point Likert Item at 12 Months</measure>
+    <time_frame>At 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting &quot;1. Very satisfied&quot; or &quot;2. Satisfied&quot; for the above question.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Satisfaction Rating by the 5-point Likert Item at 18 Months</measure>
+    <time_frame>At 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting &quot;1. Very satisfied&quot; or &quot;2. Satisfied&quot; for the above question.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Satisfaction Rating by the 5-point Likert Item at End of Study (EOS)</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting &quot;1. Very satisfied&quot; or &quot;2. Satisfied&quot; for the above question.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Satisfaction Rate at 6 Months (LOCF)</measure>
+    <time_frame>At 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting &quot;1. Very satisfied&quot; or &quot;2. Satisfied&quot; for the above question.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Satisfaction Rate at 12 Months (LOCF)</measure>
+    <time_frame>At 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting &quot;1. Very satisfied&quot; or &quot;2. Satisfied&quot; for the above question.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Satisfaction - Acceptability of the Administration of Study Treatment</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Satisfaction - Choices Upon Completion of the Study</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Satisfaction - Amount of Menstrual Bleeding</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Satisfaction - Satisfaction With Menstrual Bleeding Pattern</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Satisfaction - Frequency of Experiencing Unexpected Bleeding</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Satisfaction - Satisfaction With Menstrual Bleeding Absence</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Satisfaction - Comparison of Menstrual Pain Intensity Between Now and Before Treatment</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Satisfaction - Rating of Usual Menstrual Pain Intensity</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EVAPIL-R Scores at Screening - Composite Score</measure>
+    <time_frame>At screening</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EVAPIL-R Scores at Screening - Bother Score</measure>
+    <time_frame>At screening</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, , with higher values indicating more severe symptoms/less tolerability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EVAPIL-R Scores at 6 Months</measure>
+    <time_frame>At 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EVAPIL-R Scores at 12 Months - Composite Score</measure>
+    <time_frame>At 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EVAPIL-R Scores at 12 Months - Bother Score</measure>
+    <time_frame>At 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EVAPIL-R Scores at 18 Months/EOS</measure>
+    <time_frame>At 18 months/EOS</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drop-out Rate</measure>
+    <time_frame>At 6, 12 and 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The drop-out rate is the amount of participants that could not complete the study for various reasons. Discontinuation rates due to the following reasons and overall discontinuations were calculated:
+LCS12 expulsions
+Bleeding pattern alterations
+Bleeding pattern alterations with increased bleeding (amount)
+Bleeding pattern alterations with decreased bleeding (amount)
+Adverse Events The analyses described above were also done by parity. Furthermore, overall discontinuation rates were analyzed by Kaplan-Meier analyses and presented as cumulative half-yearly drop-out rates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearl Index (PI)</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Pearl Index was defined as the number of pregnancies per 100 woman years (WYs). Given the assumption that the number of pregnancies follows a Poisson distribution, the Pearl Index thus is the mean of this distribution.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance Rate for Yasmin Pill Intake</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of Participants With Partial or Total Expulsion</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Total expulsion is confirmed if the IUS is observed in the vagina, the IUS is not shown in the uterine cavity by ultrasound, and / or the subject confirms that the system was expelled. Partial expulsion is diagnosed if the IUS can be partially seen in the vagina or is displaced in the cervical canal.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Investigator's Evaluation of Successful IUS Insertion Procedure</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Participants' Evaluation of Pain During Successful IUS Insertion Procedure</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Investigator's Evaluation of IUS Removal Procedure</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Participants' Evaluation of Pain During IUS Removal Procedure</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">567</enrollment>
+  <condition>Contraception</condition>
+  <arm_group>
+    <arm_group_label>LCS12 (Skyla, BAY86-5028)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EE30/DRSP (Yasmin, BAY86-5131)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levonorgestrel IUD (LCS, BAY86-5028)</intervention_name>
+    <description>LCS12 insertion will occur at randomization visit (Visit 2). Duration of study treatment is 18 months with optional extension to 36 months for subjects in this group only.</description>
+    <arm_group_label>LCS12 (Skyla, BAY86-5028)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Yasmin (EE30/DRSP, BAY86-5131)</intervention_name>
+    <description>Combined oral contraceptive (COC; Yasmin; 0.03 mg ethinyl estradiol and 3 mg drospirenone); Subjects will start taking COC at / on the day of visit 2 and continue taking one pill / day without any breaks for the entire study duration of 18 months.</description>
+    <arm_group_label>EE30/DRSP (Yasmin, BAY86-5131)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject has signed and dated the Informed Consent Form (ICF).
+
+          -  The subject is generally healthy, requesting contraception, and is between 18 and 29
+             years of age (inclusive) at Screening.
+
+          -  In the opinion of the investigator, the subject is
+
+               -  in good health;
+
+               -  without uterine conditions that would preempt insertion of LCS12;
+
+               -  without conditions/history that would contraindicate the use of oral
+                  contraceptives.
+
+          -  Subject has normal or clinically insignificant cervical smear (ie, one that does not
+             require further follow up). A cervical smear must be taken at the Screening Visit or
+             a documented normal result has to have been obtained within 6 months of Screening.
+             Subjects with atypical squamous cells of undetermined significance (ASCUS) can be
+             included in the study if they have a Human Papilloma Virus (HPV) deoxyribonucleic
+             acid (DNA) test that, according to the standards of the local laboratory, is negative
+             for high-risk HPV.
+
+          -  As determined by subject's history, subject has regular (ie, endogenous cyclicity
+             without hormonal contraceptive use) menstrual cycles (length of cycle 21-35 days).
+
+          -  Subject is willing and able to attend the scheduled study visits and to comply with
+             the study procedures.
+
+        Exclusion Criteria:
+
+          -  Pregnancy or current lactation (less than 6 weeks since vaginal or Cesarean delivery
+             or abortion). Note: Postpartum LCS12 insertions should be postponed until the uterus
+             is fully involuted, and not earlier than 6 weeks after delivery. If involution is
+             substantially delayed, the investigator should consider waiting until 12 weeks
+             postpartum.
+
+          -  Infected abortion or postpartum endometritis within 3 months prior to the Screening
+             Visit (Visit 1)
+
+          -  Chronic, daily use of drugs that may increase serum potassium levels, such as
+             nonsteroidal anti-inflammatory drugs (NSAIDs, eg. ibuprofen and naproxen),
+             potassium-sparing diuretics (eg. spironolactone), potassium supplementation,
+             angiotensin converting enzyme (ACE) inhibitors, angiotensin-II receptor antagonists,
+             aldosterone antagonists, and heparin.
+
+          -  Abnormal uterine bleeding of unknown origin/undiagnosed abnormal genital bleeding
+
+          -  Any genital infection (until successfully treated)
+
+          -  Abnormal cervical smear result (see inclusion criteria)
+
+          -  Acute, current or history of recurrent pelvic inflammatory disease
+
+          -  Congenital or acquired uterine anomaly or any distortion of the uterine cavity (eg,
+             by fibroids) that, in the opinion of the investigator, would cause problems during
+             insertion, retention, or removal of LCS12.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>29 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bayer Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Bayer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>La Mesa</city>
+        <state>California</state>
+        <zip>91942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boynton Beach</city>
+        <state>Florida</state>
+        <zip>33472-2952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239-3011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Pölten</city>
+        <state>Niederösterreich</state>
+        <zip>3100</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wiener Neustadt</city>
+        <state>Niederösterreich</state>
+        <zip>2700</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Voitsberg</city>
+        <state>Steiermark</state>
+        <zip>8570</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bregenz</city>
+        <state>Vorarlberg</state>
+        <zip>6900</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Graz</city>
+        <zip>8010</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Klagenfurt</city>
+        <zip>9020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tulln</city>
+        <zip>3430</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wien</city>
+        <zip>1070</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wien</city>
+        <zip>1200</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Zeltweg</city>
+        <zip>8740</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Antwerpen</city>
+        <zip>2018</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bruxelles-brussel</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ekeren</city>
+        <zip>2180</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ettlingen</city>
+        <state>Baden-Württemberg</state>
+        <zip>76275</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hannover</city>
+        <state>Niedersachsen</state>
+        <zip>30459</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Geseke</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>59590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Köln</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>50931</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bernburg</city>
+        <state>Sachsen-Anhalt</state>
+        <zip>06406</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Blankenburg</city>
+        <state>Sachsen-Anhalt</state>
+        <zip>38889</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jessen</city>
+        <state>Sachsen-Anhalt</state>
+        <zip>06917</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Magdeburg</city>
+        <state>Sachsen-Anhalt</state>
+        <zip>39104</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dippoldiswalde</city>
+        <state>Sachsen</state>
+        <zip>01744</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dresden</city>
+        <state>Sachsen</state>
+        <zip>01169</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leipzig</city>
+        <state>Sachsen</state>
+        <zip>04207</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leipzig</city>
+        <state>Sachsen</state>
+        <zip>04299</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hamburg</city>
+        <zip>21073</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hamburg</city>
+        <zip>22159</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hamburg</city>
+        <zip>22587</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barnaul</city>
+        <zip>656038</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Irkutsk</city>
+        <zip>664003</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ivanovo</city>
+        <zip>153045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Novosibirsk</city>
+        <zip>630089</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>199034</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Germany</country>
+    <country>Russian Federation</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/cder/drug/DrugSafety/DrugIndex.htm</url>
+    <description>Click here and search for drug information provided by the FDA.</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/medwatch/safety.htm</url>
+    <description>Click here and search for information on any recalls, market or product safety alerts by the FDA which might have occurred with this product.</description>
+  </link>
+  <link>
+    <url>http://www.bayerpharma.com/en/research-and-development/clinical-trials/trial-finder/index.php</url>
+    <description>Click here to find results for studies related to Bayer Healthcare products.</description>
+  </link>
+  <link>
+    <url>http://www.clinicaltrialsregister.eu/</url>
+    <description>Click here to find information about studies related to Bayer Healthcare products conducted in Europe</description>
+  </link>
+  <verification_date>June 2015</verification_date>
+  <lastchanged_date>June 29, 2015</lastchanged_date>
+  <firstreceived_date>November 22, 2010</firstreceived_date>
+  <firstreceived_results_date>January 7, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Contraceptive Agents</mesh_term>
+    <mesh_term>Contraceptives, Oral</mesh_term>
+    <mesh_term>Contraceptives, Oral, Combined</mesh_term>
+    <mesh_term>Drospirenone</mesh_term>
+    <mesh_term>Drospirenone and ethinyl estradiol combination</mesh_term>
+    <mesh_term>Ethinyl Estradiol</mesh_term>
+    <mesh_term>Levonorgestrel</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>LCS12 (Skyla, BAY86-5028)</title>
+          <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+        </group>
+        <group group_id="P2">
+          <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+          <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="282"/>
+                <participants group_id="P2" count="285"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Participants Received Treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="279">safety population</participants>
+                <participants group_id="P2" count="281">safety population</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="227"/>
+                <participants group_id="P2" count="204"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="55"/>
+                <participants group_id="P2" count="81"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="25"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Pregnancy</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Wish for pregnancy</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>LCS12 (Skyla, BAY86-5028)</title>
+          <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+        </group>
+        <group group_id="B2">
+          <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+          <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="279"/>
+                <measurement group_id="B2" value="281"/>
+                <measurement group_id="B3" value="560"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="23.7" spread="3.0"/>
+                <measurement group_id="B2" value="23.9" spread="3.0"/>
+                <measurement group_id="B3" value="23.8" spread="3.0"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="279"/>
+                <measurement group_id="B2" value="281"/>
+                <measurement group_id="B3" value="560"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Number of births</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>0</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="216"/>
+                <measurement group_id="B2" value="206"/>
+                <measurement group_id="B3" value="422"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>1</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="39"/>
+                <measurement group_id="B2" value="49"/>
+                <measurement group_id="B3" value="88"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>2</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="19"/>
+                <measurement group_id="B2" value="24"/>
+                <measurement group_id="B3" value="43"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>3</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="4"/>
+                <measurement group_id="B2" value="2"/>
+                <measurement group_id="B3" value="6"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>4</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="1"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="1"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Overall Satisfaction Rate at 18 Months (Last Observation Carried Forward, LOCF)</title>
+        <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+        <time_frame>At 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with at least one assessment of the overall satisfaction rating)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="274"/>
+                  <measurement group_id="O2" value="260"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Overall Satisfaction Rate at 18 Months (Last Observation Carried Forward, LOCF)</title>
+            <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="82.1"/>
+                  <measurement group_id="O2" value="81.9"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority>No</non_inferiority>
+            <param_type>single proportion</param_type>
+            <param_value>82.1</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>77.1</ci_lower_limit>
+            <ci_upper_limit>86.5</ci_upper_limit>
+            <estimate_desc>Clopper Pearson Confidence Interval</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority>No</non_inferiority>
+            <param_type>single proportion</param_type>
+            <param_value>81.9</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>76.7</ci_lower_limit>
+            <ci_upper_limit>86.4</ci_upper_limit>
+            <estimate_desc>Clopper Pearson Confidence Interval</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Satisfaction Rating by the 5-point Likert Item at 6 Months</title>
+        <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+        <time_frame>At 6 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of overall satisfaction rating at 6 months)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="273"/>
+                  <measurement group_id="O2" value="260"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Overall Satisfaction Rating by the 5-point Likert Item at 6 Months</title>
+            <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Very Satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="60.4"/>
+                  <measurement group_id="O2" value="48.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="27.5"/>
+                  <measurement group_id="O2" value="35.8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Neither satisfied nor dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="7.3"/>
+                  <measurement group_id="O2" value="9.6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.8"/>
+                  <measurement group_id="O2" value="6.2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.9"/>
+                  <measurement group_id="O2" value="0.4"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Satisfaction Rating by the 5-point Likert Item at 12 Months</title>
+        <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+        <time_frame>At 12 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of overall satisfaction rating at 12 months)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="253"/>
+                  <measurement group_id="O2" value="238"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Overall Satisfaction Rating by the 5-point Likert Item at 12 Months</title>
+            <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Very Satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="66.8"/>
+                  <measurement group_id="O2" value="45.0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="22.9"/>
+                  <measurement group_id="O2" value="44.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Neither satisfied nor dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5.9"/>
+                  <measurement group_id="O2" value="5.9"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="4.3"/>
+                  <measurement group_id="O2" value="3.8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.0"/>
+                  <measurement group_id="O2" value="1.3"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Satisfaction Rating by the 5-point Likert Item at 18 Months</title>
+        <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+        <time_frame>At 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of overall satisfaction rating at 18 months)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="235"/>
+                  <measurement group_id="O2" value="217"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Overall Satisfaction Rating by the 5-point Likert Item at 18 Months</title>
+            <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Very Satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="64.3"/>
+                  <measurement group_id="O2" value="52.5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="25.1"/>
+                  <measurement group_id="O2" value="37.8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Neither satisfied nor dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6.4"/>
+                  <measurement group_id="O2" value="6.9"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3.0"/>
+                  <measurement group_id="O2" value="2.8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.3"/>
+                  <measurement group_id="O2" value="0.0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Satisfaction Rating by the 5-point Likert Item at End of Study (EOS)</title>
+        <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of overall satisfaction rating at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="268"/>
+                  <measurement group_id="O2" value="251"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Overall Satisfaction Rating by the 5-point Likert Item at End of Study (EOS)</title>
+            <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Very Satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="58.6"/>
+                  <measurement group_id="O2" value="46.6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="23.5"/>
+                  <measurement group_id="O2" value="35.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Neither satisfied nor dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="8.6"/>
+                  <measurement group_id="O2" value="9.6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5.6"/>
+                  <measurement group_id="O2" value="7.6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3.7"/>
+                  <measurement group_id="O2" value="1.2"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Satisfaction Rate at 6 Months (LOCF)</title>
+        <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+        <time_frame>At 6 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of overall satisfaction rating at 6 months or before)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="273"/>
+                  <measurement group_id="O2" value="260"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Overall Satisfaction Rate at 6 Months (LOCF)</title>
+            <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="87.9"/>
+                  <measurement group_id="O2" value="83.8"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Satisfaction Rate at 12 Months (LOCF)</title>
+        <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+        <time_frame>At 12 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of overall satisfaction rating at 12 months)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="274"/>
+                  <measurement group_id="O2" value="260"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Overall Satisfaction Rate at 12 Months (LOCF)</title>
+            <description>Satisfaction was to be assessed by the subject based on a 5-point Likert item, using the following question: How satisfied are you with the birth control method used during the study? 1. Very satisfied 2. Satisfied 3. Neither satisfied nor dissatisfied 4. Dissatisfied 5. Very dissatisfied The overall satisfaction rate was to be the percentage of subjects selecting “1. Very satisfied” or “2. Satisfied” for the above question.</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="84.3"/>
+                  <measurement group_id="O2" value="83.8"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>User Satisfaction – Acceptability of the Administration of Study Treatment</title>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of this questions of the user satisfaction questionnaire at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="263"/>
+                  <measurement group_id="O2" value="250"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>User Satisfaction – Acceptability of the Administration of Study Treatment</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Acc. without inconvenience/discomfort</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="153"/>
+                  <measurement group_id="O2" value="186"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Acc. with some inconv/discomfort</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="87"/>
+                  <measurement group_id="O2" value="46"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Not acc. with moderate inconv./discomf.</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="11"/>
+                  <measurement group_id="O2" value="15"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Not acc. with extreme inconv./discomf</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="12"/>
+                  <measurement group_id="O2" value="3"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>User Satisfaction – Choices Upon Completion of the Study</title>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of this questions of the user satisfaction questionnaire at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="263"/>
+                  <measurement group_id="O2" value="248"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>User Satisfaction – Choices Upon Completion of the Study</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Continue with study treatment</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="174"/>
+                  <measurement group_id="O2" value="122"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Use a different hormonal contraceptive</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="34"/>
+                  <measurement group_id="O2" value="51"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Use a different contraceptive method</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="17"/>
+                  <measurement group_id="O2" value="27"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Discont. use of all types of contracept.</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="6"/>
+                  <measurement group_id="O2" value="14"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>No need for contraceptive at this time</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5"/>
+                  <measurement group_id="O2" value="12"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Undecided</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="27"/>
+                  <measurement group_id="O2" value="22"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>User Satisfaction – Amount of Menstrual Bleeding</title>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of this questions of the user satisfaction questionnaire at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="260"/>
+                  <measurement group_id="O2" value="250"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>User Satisfaction – Amount of Menstrual Bleeding</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Decreased</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="80"/>
+                  <measurement group_id="O2" value="35"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Not Changed</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="163"/>
+                  <measurement group_id="O2" value="207"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Increased</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="17"/>
+                  <measurement group_id="O2" value="8"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>User Satisfaction – Satisfaction With Menstrual Bleeding Pattern</title>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of this questions of the user satisfaction questionnaire at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="263"/>
+                  <measurement group_id="O2" value="250"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>User Satisfaction – Satisfaction With Menstrual Bleeding Pattern</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Very satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="101"/>
+                  <measurement group_id="O2" value="91"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Somewhat satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="65"/>
+                  <measurement group_id="O2" value="84"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Neither satisfied nor dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="48"/>
+                  <measurement group_id="O2" value="68"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="19"/>
+                  <measurement group_id="O2" value="4"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="10"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Not applicable</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="20"/>
+                  <measurement group_id="O2" value="2"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>User Satisfaction – Frequency of Experiencing Unexpected Bleeding</title>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of this questions of the user satisfaction questionnaire at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="263"/>
+                  <measurement group_id="O2" value="250"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>User Satisfaction – Frequency of Experiencing Unexpected Bleeding</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Never</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="145"/>
+                  <measurement group_id="O2" value="219"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Seldom</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="92"/>
+                  <measurement group_id="O2" value="25"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Often</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="17"/>
+                  <measurement group_id="O2" value="5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very Often</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="9"/>
+                  <measurement group_id="O2" value="1"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>User Satisfaction – Satisfaction With Menstrual Bleeding Absence</title>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of this questions of the user satisfaction questionnaire at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="130"/>
+                  <measurement group_id="O2" value="14"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>User Satisfaction – Satisfaction With Menstrual Bleeding Absence</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Very satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="96"/>
+                  <measurement group_id="O2" value="6"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Somewhat satisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="18"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Neither satisfied nor dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="14"/>
+                  <measurement group_id="O2" value="8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very dissatisfied</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                  <measurement group_id="O2" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>User Satisfaction – Comparison of Menstrual Pain Intensity Between Now and Before Treatment</title>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of this questions of the user satisfaction questionnaire at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="259"/>
+                  <measurement group_id="O2" value="247"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>User Satisfaction – Comparison of Menstrual Pain Intensity Between Now and Before Treatment</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Decreased</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="118"/>
+                  <measurement group_id="O2" value="61"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Not changed</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="102"/>
+                  <measurement group_id="O2" value="169"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Increased</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="39"/>
+                  <measurement group_id="O2" value="17"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>User Satisfaction – Rating of Usual Menstrual Pain Intensity</title>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of this questions of the user satisfaction questionnaire at 18 months/end of study)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="261"/>
+                  <measurement group_id="O2" value="249"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>User Satisfaction – Rating of Usual Menstrual Pain Intensity</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>None</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="124"/>
+                  <measurement group_id="O2" value="82"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Mild</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="78"/>
+                  <measurement group_id="O2" value="92"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Moderate</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="43"/>
+                  <measurement group_id="O2" value="67"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Severe</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="16"/>
+                  <measurement group_id="O2" value="8"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>EVAPIL-R Scores at Screening - Composite Score</title>
+        <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+        <time_frame>At screening</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of the EVAPIL questionnaire at screening where the composite score could be calculated)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="273"/>
+                  <measurement group_id="O2" value="275"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>EVAPIL-R Scores at Screening - Composite Score</title>
+            <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+            <units>Scores on a scale</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.9386" spread="0.8036"/>
+                  <measurement group_id="O2" value="0.8846" spread="0.8231"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>EVAPIL-R Scores at Screening - Bother Score</title>
+        <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, , with higher values indicating more severe symptoms/less tolerability.</description>
+        <time_frame>At screening</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of the EVAPIL questionnaire at screening where the bother score could be calculated)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="273"/>
+                  <measurement group_id="O2" value="276"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>EVAPIL-R Scores at Screening - Bother Score</title>
+            <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, , with higher values indicating more severe symptoms/less tolerability.</description>
+            <units>Scores on a scale</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.5569" spread="0.4451"/>
+                  <measurement group_id="O2" value="0.5188" spread="0.4406"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>EVAPIL-R Scores at 6 Months</title>
+        <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+        <time_frame>At 6 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of the EVAPIL questionnaire at 6 months where the scores could be calculated)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="252"/>
+                  <measurement group_id="O2" value="243"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>EVAPIL-R Scores at 6 Months</title>
+            <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+            <units>Scores on a scale</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <sub_title>Composite score</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.3187" spread="0.9888"/>
+                  <measurement group_id="O2" value="1.1537" spread="0.9947"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Bother score</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.7364" spread="0.4940"/>
+                  <measurement group_id="O2" value="0.6550" spread="0.5148"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>EVAPIL-R Scores at 12 Months - Composite Score</title>
+        <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+        <time_frame>At 12 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of the EVAPIL questionnaire at 12 months where the composite score could be calculated)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="229"/>
+                  <measurement group_id="O2" value="218"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>EVAPIL-R Scores at 12 Months - Composite Score</title>
+            <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+            <units>Scores on a scale</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.4022" spread="1.0126"/>
+                  <measurement group_id="O2" value="1.0535" spread="0.8698"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>EVAPIL-R Scores at 12 Months - Bother Score</title>
+        <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+        <time_frame>At 12 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of the EVAPIL questionnaire at 12 months where the bother score could be calculated)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="233"/>
+                  <measurement group_id="O2" value="218"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>EVAPIL-R Scores at 12 Months - Bother Score</title>
+            <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+            <units>Scores on a scale</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.7789" spread="0.5120"/>
+                  <measurement group_id="O2" value="0.6015" spread="0.4663"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>EVAPIL-R Scores at 18 Months/EOS</title>
+        <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+        <time_frame>At 18 months/EOS</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects with an assessment of the EVAPIL questionnaire at 18 months/end of study where the scores could be calculated)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="260"/>
+                  <measurement group_id="O2" value="250"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>EVAPIL-R Scores at 18 Months/EOS</title>
+            <description>The EVAPIL-R scale is a self-questionnaire aimed to assess tolerability of oral contraceptives. A composite score was derived from 16 items and the ratings for presence/absence (rated as 1/0), frequency (rated with values from 0 to 2), intensity (rated from 1 to 3) and bother (rated from 1 to 4) for each item. To calculate the composite score, the bother rating of each item was multiplied by an item- specific multiplier and a weight. Range is 0-12, with higher values indicating more severe symptoms/less tolerability.</description>
+            <units>Scores on a scale</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <sub_title>Composite score</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1.4804" spread="1.1926"/>
+                  <measurement group_id="O2" value="1.0246" spread="0.9546"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Bother score</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.8113" spread="0.5765"/>
+                  <measurement group_id="O2" value="0.5908" spread="0.4836"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Drop-out Rate</title>
+        <description>The drop-out rate is the amount of participants that could not complete the study for various reasons. Discontinuation rates due to the following reasons and overall discontinuations were calculated:
+LCS12 expulsions
+Bleeding pattern alterations
+Bleeding pattern alterations with increased bleeding (amount)
+Bleeding pattern alterations with decreased bleeding (amount)
+Adverse Events The analyses described above were also done by parity. Furthermore, overall discontinuation rates were analyzed by Kaplan-Meier analyses and presented as cumulative half-yearly drop-out rates.</description>
+        <time_frame>At 6, 12 and 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="279"/>
+                  <measurement group_id="O2" value="281"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Drop-out Rate</title>
+            <description>The drop-out rate is the amount of participants that could not complete the study for various reasons. Discontinuation rates due to the following reasons and overall discontinuations were calculated:
+LCS12 expulsions
+Bleeding pattern alterations
+Bleeding pattern alterations with increased bleeding (amount)
+Bleeding pattern alterations with decreased bleeding (amount)
+Adverse Events The analyses described above were also done by parity. Furthermore, overall discontinuation rates were analyzed by Kaplan-Meier analyses and presented as cumulative half-yearly drop-out rates.</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>at 6 months</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="7.53"/>
+                  <measurement group_id="O2" value="11.39"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>at 12 months</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="13.26"/>
+                  <measurement group_id="O2" value="21.71"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>at 18 months</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="18.64"/>
+                  <measurement group_id="O2" value="27.40"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pearl Index (PI)</title>
+        <description>The Pearl Index was defined as the number of pregnancies per 100 woman years (WYs). Given the assumption that the number of pregnancies follows a Poisson distribution, the Pearl Index thus is the mean of this distribution.</description>
+        <time_frame>Up to 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+          <group group_id="O2">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="279"/>
+                  <measurement group_id="O2" value="281"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Pearl Index (PI)</title>
+            <description>The Pearl Index was defined as the number of pregnancies per 100 woman years (WYs). Given the assumption that the number of pregnancies follows a Poisson distribution, the Pearl Index thus is the mean of this distribution.</description>
+            <units>Pregnancies per 100 women years</units>
+            <param>Mean</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.57" lower_limit="0.07" upper_limit="2.05"/>
+                  <measurement group_id="O2" value="1.82" lower_limit="0.67" upper_limit="3.97"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Compliance Rate for Yasmin Pill Intake</title>
+        <time_frame>Up to 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+            <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 μg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="281"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Compliance Rate for Yasmin Pill Intake</title>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Missing</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.8"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Compliance &lt;=75%</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.1"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Compliance &gt;75%</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="95.0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Number of Participants With Partial or Total Expulsion</title>
+        <description>Total expulsion is confirmed if the IUS is observed in the vagina, the IUS is not shown in the uterine cavity by ultrasound, and / or the subject confirms that the system was expelled. Partial expulsion is diagnosed if the IUS can be partially seen in the vagina or is displaced in the cervical canal.</description>
+        <time_frame>Up to 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="279"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Number of Participants With Partial or Total Expulsion</title>
+            <description>Total expulsion is confirmed if the IUS is observed in the vagina, the IUS is not shown in the uterine cavity by ultrasound, and / or the subject confirms that the system was expelled. Partial expulsion is diagnosed if the IUS can be partially seen in the vagina or is displaced in the cervical canal.</description>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Partial expulsion</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Total expulsion</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Investigator's Evaluation of Successful IUS Insertion Procedure</title>
+        <time_frame>Up to 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="279"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Investigator's Evaluation of Successful IUS Insertion Procedure</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Easy</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="247"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Slightly difficult</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="31"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very difficult</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Participants’ Evaluation of Pain During Successful IUS Insertion Procedure</title>
+        <time_frame>Up to 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="279"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Participants’ Evaluation of Pain During Successful IUS Insertion Procedure</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>None</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="49"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Mild</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="125"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Moderate</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="80"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Severe</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="25"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Investigator's Evaluation of IUS Removal Procedure</title>
+        <time_frame>Up to 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects in the LCS12 arm with documented removal of the IUS)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="76"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Investigator's Evaluation of IUS Removal Procedure</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Missing</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Easy</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="70"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Slightly difficult</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Very difficult</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Participants’ Evaluation of Pain During IUS Removal Procedure</title>
+        <time_frame>Up to 18 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Full analysis set (only subjects in the LCS12 arm with documented removal of the IUS)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>LCS12 (Skyla, BAY86-5028)</title>
+            <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 μg LNG per day for 18 months with optional extension to 36 months</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="76"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Participants’ Evaluation of Pain During IUS Removal Procedure</title>
+            <units>Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Missing</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="3"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>None</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="43"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Mild</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="24"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Moderate</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="5"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Severe</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="1"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From start of treatment until 18 months/EOS visit.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>LCS12 (Skyla, BAY86-5028)</title>
+          <description>Participants received LCS12 (low dose levonorgestrel [LNG] intrauterine delivery system [IUS]) with an initial in vitro release rate of 12 µg LNG per day for 18 months with optional extension to 36 months</description>
+        </group>
+        <group group_id="E2">
+          <title>EE30/DRSP (Yasmin, BAY86-5131)</title>
+          <description>Participants received combined oral contraceptive (COC) tablet Yasmin containing 30 µg ethinyl estradiol (EE) and 3 mg drospirenone (DRSP) for 18 months/19 cycles</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (15.1)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Basedow's disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Colitis ulcerative</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Femoral hernia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Impaired healing</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Appendicitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Infectious mononucleosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Incisional hernia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Laceration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Muscle injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Ligament rupture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Exostosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Nose deformity</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Malignant melanoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Cervix carcinoma stage 0</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Pregnancy, puerperium and perinatal conditions</title>
+            <event_list>
+              <event>
+                <sub_title>Abortion spontaneous</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Ectopic pregnancy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cervical dysplasia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Ovarian cyst</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>1</frequency_threshold>
+        <default_vocab>MedDRA (15.1)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="194" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="148" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypothyroidism</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="23" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain lower</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Gastritis</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Toothache</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Irritability</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Acute tonsillitis</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Cystitis</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Tonsillitis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vaginal infection</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vulvitis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginal candidiasis</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginitis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Tooth infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vaginitis bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginal mycotic infection</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginitis streptococcal</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Contusion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Procedural pain</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Smear cervix abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Weight decreased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Weight increased</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Human papilloma virus test positive</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="33" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Libido decreased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Mood altered</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Breast pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Breast tenderness</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Cervical dysplasia</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Dysmenorrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="48" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="26" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Menorrhagia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Metrorrhagia</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Ovarian cyst</sub_title>
+                <counts group_id="E1" subjects_affected="19" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Pelvic pain</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vaginal discharge</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Vaginal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Genital haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Coital bleeding</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acne</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="281"/>
+              </event>
+              <event>
+                <sub_title>Skin disorder</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Wisdom teeth removal</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="279"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="281"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Therapeutic Area Head</name_or_title>
+      <organization>BAYER</organization>
+      <email>clinical-trials-contact@bayerhealthcare.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

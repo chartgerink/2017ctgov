@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="14507">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 13, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00291694</url>
+  </required_header>
+  <id_info>
+    <org_study_id>9118</org_study_id>
+    <nct_id>NCT00291694</nct_id>
+  </id_info>
+  <brief_title>Protocol for Women at Increased Risk of Developing Breast Cancer</brief_title>
+  <official_title>A Double-blinded Phase II Study of the Expression of Ki-67/MIB-1 in Women With Hyperplasia of the Breast Randomized to Receive Daily Celecoxib 400 mg BID or Placebo</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Carol Fabian, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Susan G. Komen Breast Cancer Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kansas Medical Center</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the effects of twelve months of celecoxib administration by evaluating breast
+      tissue needle aspirations, to determine if cell growth can be slowed.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A blind randomized study of celecoxib in women at high risk of developing breast cancer.
+      Subjects are to take twelve months of drug/placebo. At baseline and after twelve months
+      subjects will have a random periareolar fine needle breast aspiration that will be assessed
+      for epithelial cell growth and other markers of risk. Baseline and twelve month serum
+      samples will also be assessed for hormones and growth factors which may be associated with
+      breast cancer risk. Mammograms at baseline and twelve months will also be assessed for
+      breast density changes.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2003</start_date>
+  <completion_date type="Actual">December 2009</completion_date>
+  <primary_completion_date type="Actual">December 2009</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Change in Value of Ki-67</measure>
+    <time_frame>Baseline and 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum Markers for Hormones and Growth Factors, Mammographic Breast Density</measure>
+    <time_frame>Baseline and 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">72</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Oral Celecoxib 400 mg twice daily for 12 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matched blinded placebo twice daily for 12 months</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>celecoxib</intervention_name>
+    <description>Celecoxib 400 mg BID</description>
+    <arm_group_label>1</arm_group_label>
+    <other_name>Celebrex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>placebo</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  women who have a high risk of breast cancer
+
+          -  older than 18 years
+
+        Exclusion Criteria:
+
+          -  anticoagulants
+
+          -  marked breast tenderness
+
+          -  pregnant or within twelve months of breast feeding/childbirth
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carol J Fabian, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kansas Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 30, 2015</lastchanged_date>
+  <firstreceived_date>February 10, 2006</firstreceived_date>
+  <firstreceived_results_date>June 24, 2013</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kansas Medical Center Research Institute</investigator_affiliation>
+    <investigator_full_name>Carol Fabian, MD</investigator_full_name>
+    <investigator_title>Professor, Director Breast Cancer Prevention Unit</investigator_title>
+  </responsible_party>
+  <keyword>breast atypia</keyword>
+  <keyword>double-blind randomized clinical trial</keyword>
+  <keyword>RCT</keyword>
+  <keyword>celecoxib</keyword>
+  <keyword>COX-2 inhibitor</keyword>
+  <keyword>placebo</keyword>
+  <keyword>high risk for breast cancer</keyword>
+  <keyword>breast epithelial hyperplasia</keyword>
+  <keyword>ki-67</keyword>
+  <keyword>chemoprevention</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Celecoxib</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo</title>
+          <description>Placebo for 12 months</description>
+        </group>
+        <group group_id="P2">
+          <title>Celecoxib</title>
+          <description>Celecoxib for 12 months</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="24"/>
+                <participants group_id="P2" count="48"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="43"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Celecoxib</title>
+          <description>Celecoxib for six months</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo for six months</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="48"/>
+                <measurement group_id="B2" value="24"/>
+                <measurement group_id="B3" value="72"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;=18 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Between 18 and 65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="48"/>
+                <measurement group_id="B2" value="24"/>
+                <measurement group_id="B3" value="72"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>&gt;=65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="48.7" spread="6.6"/>
+                <measurement group_id="B2" value="45.2" spread="8.5"/>
+                <measurement group_id="B3" value="47.5" spread="7.4"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="48"/>
+                <measurement group_id="B2" value="24"/>
+                <measurement group_id="B3" value="72"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>United States</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="48"/>
+                <measurement group_id="B2" value="24"/>
+                <measurement group_id="B3" value="72"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Value of Ki-67</title>
+        <time_frame>Baseline and 12 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Celecoxib</title>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="43"/>
+                  <measurement group_id="O2" value="21"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Change in Value of Ki-67</title>
+            <units>percentage of cells staining positive</units>
+            <param>Median</param>
+            <dispersion>Standard Error</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="-1.2" spread="0.85"/>
+                  <measurement group_id="O2" value="-2.0" spread="1.09"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum Markers for Hormones and Growth Factors, Mammographic Breast Density</title>
+        <time_frame>Baseline and 12 months</time_frame>
+        <safety_issue>No</safety_issue>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>12 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Celecoxib</title>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>CTCAE (3.0)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="43" subjects_at_risk="43"/>
+                <counts group_id="E2" subjects_affected="21" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="18" subjects_affected="18" subjects_at_risk="43"/>
+                <counts group_id="E2" events="7" subjects_affected="7" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title vocab="CTCae">Dyspepsia</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="14" subjects_at_risk="43"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="13" subjects_at_risk="43"/>
+                <counts group_id="E2" events="8" subjects_affected="8" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="43"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>GI-other</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Rectal bleeding</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>abdominal pain</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Fever</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title vocab="CTCAE">Allergic Reaction</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Infection-other</sub_title>
+                <counts group_id="E1" events="24" subjects_affected="24" subjects_at_risk="43"/>
+                <counts group_id="E2" events="13" subjects_affected="13" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>headache</sub_title>
+                <counts group_id="E1" events="19" subjects_affected="19" subjects_at_risk="43"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>pain-other</sub_title>
+                <counts group_id="E1" events="19" subjects_affected="19" subjects_at_risk="43"/>
+                <counts group_id="E2" events="7" subjects_affected="7" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal-other</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hot Flashes</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Reproductive-other</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="13" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Irregular menses</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="43"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pulmnary-other</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="43"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title vocab="CTCAE">Skin-other</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Carol Fabian</name_or_title>
+      <organization>University of Kansas Medical Center</organization>
+      <phone>913-588-3666</phone>
+      <email>cfabian@kumc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
