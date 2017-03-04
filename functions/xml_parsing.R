@@ -1,11 +1,36 @@
+#!/usr/bin/env Rscript
+
+args = commandArgs(trailingOnly=TRUE)
+
+if (length(args) == 0) stop('Missing arguments. Should be supplied two.
+                             1. folder of ctgov xmls
+                             2. filename for write-out (no extension necessary)')
+
 if(!require(XML)) install.packages('XML')
 if(!require(plyr)) install.packages('plyr')
+if(!require(magrittr)) install.packages('magrittr')
 
-folder_files <- 'ctgov_raw_xml_20160414'
+folder_files <- args[1]
+source('functions/rct_baseline.R')
 
 files <- list.files(recursive = TRUE)
 sel <- files[grepl(pattern = folder_files, x = files)]
-q <- NULL
+res <- data.frame(nct_id = NULL,
+			study_design = NULL,
+			randomized = NULL,
+			start_date = NULL,
+			completion_date = NULL,
+			overall_status = NULL,
+			trial_condition = NULL,
+			trial_phase = NULL,
+			oversight_authority = NULL,
+			trial_source = NULL,
+			fda_regulated = NULL,
+			number_of_arms = NULL,
+			intervention_type = NULL,
+			chi2 = NULL,
+			df = NULL,
+			pval = NULL)
 
 for (i in 1:length(sel))
 {
@@ -15,11 +40,11 @@ for (i in 1:length(sel))
   y <- XML::xmlRoot(x)
   z <- XML::xmlToList(y)
 
-  nct_id <- z$id_info$nct_id
+  nct_id <- z$id_info$nct_id %>% as.character %>% tail(n = 1)
   study_design <- z$study_design
-  randomized <- grepl(study_design, pattern = 'randomized', ignore.case = TRUE)
-  start_date <- z$start_date
-  completion_date <- z$completion_date
+  randomized <- grepl(study_design, pattern = '\\srandomized', ignore.case = TRUE)
+  start_date <- z$start_date %>% is.null %>% ifelse(NA, z$start_date) %>% unlist
+  completion_date <- z$completion_date %>% is.null %>% ifelse(NA, z$completion_date) %>% unlist
   overall_status <- z$overall_status
   trial_condition <- z$condition
   trial_phase <- z$phase
@@ -28,7 +53,7 @@ for (i in 1:length(sel))
   fda_regulated <- z$is_fda_regulated
   number_of_arms <- z$number_of_arms
   intervention_type <- z$intervention$intervention_type
-  
+
   base_measures <- y[['clinical_results']][['baseline']][['measure_list']]
   df = data.frame(title = NULL, sub_title = NULL, units = NULL, param = NULL, group = NULL, value = NULL, spread = NULL)
   for (j in 1:length(base_measures))
@@ -51,7 +76,6 @@ for (i in 1:length(sel))
            group <- tmp['group_id'] %>% as.character
            value <- tmp['value'] %>% as.numeric
            spread <- tmp['spread'] %>% as.numeric
-           print(c(title, units, param, group, value, spread))
            df <- rbind(df, data.frame(title, sub_title, units, param, group, value, spread))
         }
       }
@@ -65,10 +89,28 @@ for (i in 1:length(sel))
          group <- tmp['group_id'] %>% as.character
          value <- tmp['value'] %>% as.numeric
          spread <- tmp['spread'] %>% as.numeric
-         print(c(title, units, param, group, value, spread))
          df <- rbind(df, data.frame(title, sub_title = NA, units, param, group, value, spread))
       }
     }
-
   }
+  rct <- rct_baseline_ctgov(df)
+  print(i)
+  res <- rbind(res, data.frame(nct_id = nct_id,
+                        study_design = study_design,
+                        randomized = randomized,
+                        start_date = start_date,
+                        completion_date = completion_date,
+                        overall_status,
+                        trial_condition,
+                        trial_phase,
+                        oversight_authority,
+                        trial_source,
+                        fda_regulated,
+                        number_of_arms,
+                        intervention_type,
+                        rct$chi2,
+                        rct$df,
+                        rct$pval))
 }
+
+write.csv(res, sprintf('data/%s.csv', args[2]), row.names = FALSE)

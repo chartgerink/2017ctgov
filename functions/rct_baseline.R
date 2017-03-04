@@ -5,7 +5,15 @@ rct_baseline <- function(x)
 
 rct_baseline_ctgov <- function(x)
 {
-  tot_n <- find_n(x)
+  if (length(unique(x$group)) <= 1)
+  {
+    chi2 <- NA
+    df <- NA
+    pval <- NA
+  } else
+  {
+
+    tot_n <- find_n(x)
   interim <- plyr::ddply(x, .(title, sub_title, units, param), function(y)
   {
     if (unique(y$param) == 'Number')
@@ -25,9 +33,9 @@ rct_baseline_ctgov <- function(x)
   df <- length(head(y$param, -1)) - 1
   return(data.frame(chi2_part = chi2, df_part = df))
   })
-  
-  chi2 <- sum(interim$chi2_part, na.rm = TRUE)
-  df <- sum(interim$df[!is.na(interim$chi2_part)])
+    chi2 <- sum(interim$chi2_part, na.rm = TRUE)
+    df <- sum(interim$df[!is.na(interim$chi2_part)])
+  }
   res <- data.frame(chi2 = chi2,
                     df = df,
                     pval = pchisq(q = chi2,
